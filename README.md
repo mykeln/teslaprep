@@ -7,7 +7,7 @@ I couldn't find a good resource for the soup-to-nuts process of buying a Model 3
 3.  Attend a [Tesla owner orientation event](https://www.tesla.com/events). You will meet other owners and learn lots of handy tips about general ownership, driving and living with the car.
 4.  [Get a home charger installed](https://www.tesla.com/support/home-charging-installation)). Tesla has [a list of recommended installers](https://www.tesla.com/support/find-an-installer). You can also check [YouTube](https://www.youtube.com/watch?v=UMKiwyWikNs) to do a DIY installation.
 5.  [Download and read a copy of the owners manual](https://www.tesla.com/content/dam/tesla/Ownership/Own/Model%203%20Owners%20Manual.pdf). It will come in handy on your phone/computer for when you need it.
-6.  Read "[What They Don't Tell You When You Buy an Electric Car]"(http://10ways.com/save/travel/car/what-they-dont-tell-you-when-you-buy-an-electric-car/9792)
+6.  Read [What They Don't Tell You When You Buy an Electric Car](http://10ways.com/save/travel/car/what-they-dont-tell-you-when-you-buy-an-electric-car/9792)
 7.  Grab a [good tire inflator](https://www.amazon.com/dp/B01N224N1U?tag=thewire06-20&linkCode=xm2&ascsubtag=AgEAAAAAAAAAAR8J).
 8.  Join the [Tesla Motors Club forum](https://teslamotorsclub.com/).
 
