@@ -25,7 +25,7 @@ I couldn't find a good resource for the soup-to-nuts process of buying a Model 3
 6.  [Pair your phone](https://www.youtube.com/watch?v=oJT0Du4BseM) and connect / reconnect Bluetooth.
 7.  How to use [Satellite Radio, Podcasts & Spotify](https://www.youtube.com/watch?v=SKP2dGqvc6g).
 8.  [Steering wheel buttons](https://www.youtube.com/watch?v=U1rHLE1l60A) / how to change what each do.
-9.  [How to do a full reset](https://www.youtube.com/watch?v=0eLJYgcJN6I) of the main screen and the dash above steering wheel.
+9.  [How to do a full reset](https://www.youtube.com/watch?v=0eLJYgcJN6I) of the main screen.
 10. How to [adjust seating](https://www.youtube.com/watch?v=jgq9zBjpekE), [save profiles](https://www.youtube.com/watch?v=hprbqJwMqWM), have mirrors drop / not drop when reversing.
 11. Review [all settings pages](https://www.youtube.com/watch?v=BgNNPdj7zp8).
 12. Use of the Android or iPhone [apps](https://www.youtube.com/watch?v=AMD1TA-MdZY).
