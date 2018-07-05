@@ -1,12 +1,12 @@
 ## Before you take delivery, you should:
-1.  Watch the [walkthrough videos on the support section of Tesla.com](https://www.tesla.com/support?redirect=no). These are great at getting you started with the basics and will speed up your handover process
-2.  Review the information supplied on the [Tesla Support pages](https://www.tesla.com/support?redirect=no), these go over details on Finance, Trade-In, Registration, Insurance, Warranty and loads more. It's also worth checking these pages before asking questions on Facebook, r/teslamotors, etc.
-3.  Attend a [Tesla Owner Orientation Event](https://www.tesla.com/events), you will meet other owners and learn lots of handy tips about the car, driving the car and living with the car.
-4.  [Get a home charger installed](FIXME) ([Tesla info page](https://www.tesla.com/support/home-charging-installation)). Tesla have [a list of recommended installers](https://www.tesla.com/support/find-an-installer). You can also check [YouTube](https://www.youtube.com/watch?v=UMKiwyWikNs) to do a DIY installation.
+1.  Watch the [Model 3 walkthrough videos on the support section of Tesla.com](https://www.tesla.com/support/model-3-videos). These are great at getting you started with the basics and will speed up your handover process
+2.  Review the information supplied on the [Tesla Support pages](https://www.tesla.com/support?redirect=no), these go over details on financing, trade ins, vehicle registration, insurance, warranty, etc. Check these pages before asking questions on Facebook, r/teslamotors, etc.
+3.  Attend a [Tesla owner orientation event](https://www.tesla.com/events). You will meet other owners and learn lots of handy tips about general ownership, driving and living with the car.
+4.  [Get a home charger installed](https://www.tesla.com/support/home-charging-installation)). Tesla has [a list of recommended installers](https://www.tesla.com/support/find-an-installer). You can also check [YouTube](https://www.youtube.com/watch?v=UMKiwyWikNs) to do a DIY installation.
 5.  [Download and read a copy of the owners manual](https://www.tesla.com/content/dam/tesla/Ownership/Own/Model%203%20Owners%20Manual.pdf). It will come in handy on your phone/computer for when you need it.
-6.  Read [What they don't tell you when you buy an electric car](http://10ways.com/save/travel/car/what-they-dont-tell-you-when-you-buy-an-electric-car/9792)
-7.  Grab a [decent tire pump](https://www.amazon.com/Audew-Portable-Compressor-Inflator-Inflatables/dp/B0719925K5/ref=sr_1_4?ie=UTF8&qid=1530650534&sr=8-4&keywords=tire+pump&dpID=515wSUCBeZL&preST=_SY300_QL70_&dpSrc=srch). It will save you tire wear.
-8.  Join the [Tesla Motors Club forum](https://teslamotorsclub.com/) on Facebook.
+6.  Read "[What They Don't Tell You When You Buy an Electric Car]"(http://10ways.com/save/travel/car/what-they-dont-tell-you-when-you-buy-an-electric-car/9792)
+7.  Grab a [good tire inflator](https://www.amazon.com/dp/B01N224N1U?tag=thewire06-20&linkCode=xm2&ascsubtag=AgEAAAAAAAAAAR8J).
+8.  Join the [Tesla Motors Club forum](https://teslamotorsclub.com/).
 
 ## On delivery day, you should check:
 [Master Model 3 Delivery Checklist](https://docs.google.com/document/d/1gw13-SKi_XQkooBmWKUunrtL6GO-g8PKSJAl1eLPsJU/edit)
@@ -17,7 +17,7 @@
 1.  [How to charge](https://www.youtube.com/watch?v=5bDGjIxmyNo) / [work a supercharger](https://www.youtube.com/watch?v=srLjNqo7r20) / open the charge flap
 2.  Make sure correct [closing technique for frunk is demonstrated](https://www.youtube.com/watch?v=SY8qpdawx5U)
 3.  [Autopilot](https://www.youtube.com/watch?v=4CLjUHTatYk) usage
-4.  **How to find superchargers** / other chargers (hint: [Plugshare](http://plugshare.com/))
+4.  [How to find superchargers](http://plugshare.com/) / other chargers
 5.  How to **open / move between apps** on the display
 6.  **Pair your phone** and connect / reconnect Bluetooth
 7.  How to use **Satellite Radio, Podcasts & Spotify.**
