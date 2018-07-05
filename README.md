@@ -1,3 +1,6 @@
+# TeslaPrep
+I couldn't find an updated list of resources for the soup-to-nuts process of buying a Model 3, so I made one! This document is adapted from Will Fealey's UK-based [guide](https://fealey.co.uk/tesla/things-to-check-when-you-pick-up-your-tesla/577) on the Model S. It's been Americanized and edited for the Model 3, with many new links and additional resources since Will's was originally written.
+
 ## Before you take delivery, you should:
 1.  Watch the [Model 3 walkthrough videos on the support section of Tesla.com](https://www.tesla.com/support/model-3-videos). These are great at getting you started with the basics and will speed up your handover process
 2.  Review the information supplied on the [Tesla Support pages](https://www.tesla.com/support?redirect=no), these go over details on financing, trade ins, vehicle registration, insurance, warranty, etc. Check these pages before asking questions on Facebook, r/teslamotors, etc.
