@@ -1,4 +1,7 @@
-# TeslaPrep
+# Tesla Prep
+
+A comprehensive guide on preparing for, taking delivery of, and owning a Tesla Model 3.
+
 I couldn't find a good resource for the soup-to-nuts process of buying a Model 3, so I made one. This document is adapted from Will Fealey's UK-based [guide](https://fealey.co.uk/tesla/things-to-check-when-you-pick-up-your-tesla/577) on the Model S. It's been Americanized and edited for the Model 3, with many new links and additional resources since Will's was originally written.
 
 ## Before you take delivery, you should:
@@ -20,9 +23,12 @@ I couldn't find a good resource for the soup-to-nuts process of buying a Model 3
 * Since the delivery area where you will inspect your Model 3 may be dark, bring a flashlight.
 
 ## On delivery day, once you've arrived:
+### Verify pre-delivery vehicle records
 * Check for correct name and address on your paperwork.
 * Confirm vehicle's VIN matches your paperwork.
-* Watch for any error messages on the display screen.
+* Check display screen for any information that does not match the car.
+
+### Exterior inspection
 * Check for correct vehicle body color and wheels.
 * Inspect body exterior paint for defects.
 * Inspect vehicle underside (front & rear) for signs of damage.
@@ -32,62 +38,72 @@ I couldn't find a good resource for the soup-to-nuts process of buying a Model 3
 * Check for proper windshield and windshield trim installation.
 * Inspect all edges of the roof glass panel and rear window.
 * Test all doors to ensure they open and close without unreasonable effort. Check paint in areas, such as door hinges, that are not visible when doors are closed.  Some deliveries have reported incomplete body painting in hidden areas.
-* Ensure door windows auto-close completely when doors are closed.
-* Test driver & passenger door emergency release.
-* Check all 4 windows to ensure they open and close properly.
 * Test opening and closing of trunk and frunk. Check paint in areas that are not visible when frunk and trunk are closed.  Some deliveries have reported incomplete body painting in hidden areas.
 * Check for the towing eye under the frunk mat.
-* Depending on state requirement, check for front license plate bracket.
+* Ensure door windows auto-close completely when doors are closed.
+* Check for front license plate bracket (if applicable in your state).
+* Check all front and rear exterior lights for signs of internal condensation.
+
+### Interior inspection
+* Watch for any error messages on the display screen.
+* Touch the Tesla T at the top of the screen to bring up the "About Your Tesla" window. Tap the unicorn drawing to access the Sketch Pad. Leave the Sketch Pad up for a minute to make sure there are no phantom touches happening on the display.
+* Test driver & passenger door emergency release.
+* Check all 4 windows to ensure they open and close properly.
 * Inspect interior seat upholstery, door surfaces, dash, headliner & carpets (including passenger compartment, frunk & trunk).
 * Check left & right clothing hook operation.
 * Check all seat belts for proper operation.
 * Check rear seats for proper fold-down operation.
-* Test sound system to ensure all speakers are working.
+* Test sound system to ensure all speakers are working (move fade/balance to all four points to verify)
 * Test steering wheel position controls to ensure proper operation.
 * Press the center of the steering wheel to make sure the car's horn works.
 * Test windshield wipers.
 * Test rear view camera.
 * Check side mirrors for proper operation of folding and position adjustment.
-* Test all lights.
-	* Vanity mirror lights.
-	* Front overhead driver & passenger lights.
-	* Rear overhead left & right side lights.
-	* Ambient lights
-	* Driver & passenger foot wells
-	* Driver & passenger door pockets
-	* Rear left & right door pockets.
-	* Driver & passenger door puddle lights.
-	* Console middle compartment light.
-	* Console rear compartment light.
-	* All door latch button lights.
-	* All door window button lights.
-	* Steering wheel control lights.
-	* Glovebox light (check glovebox opening and closing).
-	* Frunk light.
-	* Trunk lights (2).
-	* Fog lights.
-	* Headlights (low & high-beam).
-	* Front park lights.
-	* Front turn signal lights.
-	* Left & right side turn signal lights.
-	* Rear running lights.
-	* Brake lights.
-	* Rear turn signal lights.
-* Check all front and rear exterior lights for signs of internal condensation.
+* Check sunvisor operation.
+
+### Lighting inspection
+* Vanity mirror lights.
+* Front overhead driver & passenger lights.
+* Rear overhead left & right side lights.
+* Ambient lights
+* Driver & passenger foot wells
+* Driver & passenger door pockets
+* Rear left & right door pockets.
+* Driver & passenger door puddle lights.
+* Console middle compartment light.
+* Console rear compartment light.
+* All door latch button lights.
+* All door window button lights.
+* Steering wheel control lights.
+* Glovebox light (check glovebox opening and closing).
+* Frunk light.
+* Trunk lights (2).
+* Fog lights.
+* Headlights (low & high-beam).
+* Front park lights.
+* Front turn signal lights.
+* Left & right side turn signal lights.
+* Rear running lights.
+* Brake lights.
+* Rear turn signal lights.
+* Sunvisor driver & passenger lights.
+
+### Inspect charging ability
 * Check charge port door for proper operation.
 * Check charge port indicator light.
 * Ensure vehicle will accept a charge.
-* Check mobile charging kit.  Test it to ensure it works.
+* Check mobile charging kit. Test it to ensure it works.
 	* J1772 Adapter
 	* NEMA 5-15 120v Adapter
 	* NEMA 14-50 240v adapter
 	* Gen 2 Mobile Connector with cable
+
+### Inspect pairing connectivity
 * Test both key cards to ensure they work with your car. Keep one key card on your person in case the phone app does not operate properly.
 * Attempt to pair your smart phone to your car on Bluetooth.
+
+### Verify post-delivery vehicle records
 * Ask your delivery specialist to make sure that your car is marked as DELIVERED in Tesla's network. There have been reports of cars being delivered and the phone app doesn't allow log in the following day. This is due to the oversight of the car not being identified as having been delivered in Tesla's system.
-* Check display screen for any information that does not match the car.
-* Touch the Tesla T at the top of the screen to bring up the "About Your Tesla" window. Tap the unicorn drawing to access the Sketch Pad. Leave the Sketch Pad up for a minute to make sure there are no phantom touches happening on the display.
-* Listen for any unusual sounds coming from vehicle exterior or interior. Some sounds may seem unusual at first exposure. It is normal to hear fans and relays that operate at times depending on the car's situation.
 * Make sure you have copies of all paperwork necessary for good documentation of your purchase, including a copy of your signed purchase agreement.  If your delivery specialist suggests that you can get your documents electronically on your Tesla account, ask for paper copies you can take with you anyway. Having physical copies with you insures you will get them.
 
 You can additionally check the [Master Model 3 Delivery Checklist](https://docs.google.com/document/d/1gw13-SKi_XQkooBmWKUunrtL6GO-g8PKSJAl1eLPsJU/edit)
