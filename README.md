@@ -4,6 +4,32 @@ A comprehensive guide on preparing for, taking delivery of, and owning a Tesla M
 
 I couldn't find a good resource for the soup-to-nuts process of buying a Model 3, so I made one. This document is adapted from Will Fealey's UK-based [guide](https://fealey.co.uk/tesla/things-to-check-when-you-pick-up-your-tesla/577) on the Model S. It's been Americanized and edited for the Model 3, with many new links and additional resources since Will's was originally written.
 
+## Start
+Congratulations! You've configured a Model 3. Now comes the hardest part: waiting.
+
+The typical order of operations looks like this after you submit your order:
+1. You'll receive an email from Tesla saying something to the effect of "we'll be in touch!"
+2. Depending on your financing choice during configuration, you'll see an "Edit Design" button on your account page all the way up until your car starts being built (this can be in as little as ten days before taking delivery).
+3. Do not get financing quotes at this time. They expire after 30-days, and you will need to re-run credit checks
+
+### First contact
+You will eventually be contacted by a Tesla Delivery Advisor/Scheduler, who will confirm your delivery date. Make sure your Tesla account reflects this date.
+
+If you elected the "Cash" option for financing, your "Edit Design" button will disappear immediately. But it's still accessible by visiting https://www.tesla.com/teslaaccount/edit-design/RNXXXXXXXXXXX. Use this link to unofficially check the status of your order.
+
+### <30 days before delivery
+Now it's time to get quotes from credit unions, banks, etc. Whatever quotes you get, if your credit history is excellent, use [Lightstream](https://www.lightstream.com/) to get an unsecured cash loan. They will beat any approved rate you send them.
+
+Ensure you have the routing/account number of the account(s) you will be transferring funds from on delivery day (especially important on weekends).
+
+### <10 days before delivery
+If applicable, finalize your financeer.
+
+Your "Edit Design" button and/or back-door link should stop working. If it doesn't, your delivery date is probably going to be delayed.
+
+### <7 days before delivery
+Check your account for an assigned VIN. If it's not showing up, the back-door method is to try buying a [Tesla Wall Connector](https://shop.tesla.com/us/en/product/vehicle-accessories/model-s_x_3-wall-connector.html). When you're checking out, if it says "No VIN assigned," you truly do not have a VIN. Your delivery date is probably going to be delayed.
+
 ## Before you take delivery, you should:
 1.  Watch the [Model 3 walkthrough videos on the support section of Tesla.com](https://www.tesla.com/support/model-3-videos). These are great at getting you started with the basics and will speed up your handover process
 2.  Review the information supplied on the [Tesla Support pages](https://www.tesla.com/support?redirect=no), these go over details on financing, trade ins, vehicle registration, insurance, warranty, etc.
