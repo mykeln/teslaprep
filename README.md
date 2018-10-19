@@ -57,7 +57,7 @@ If you have a VIN, call your insurance to schedule the coverage date.
 
 ### Exterior inspection
 * Check for correct vehicle body color and wheels.
-* Inspect body exterior paint for defects.
+* Inspect body exterior paint for defects. NOTE: By and large, this should really be the only time you reject a delivery.
 * Inspect vehicle underside (front & rear) for signs of damage.
 * Check for any obvious body panel misalignment.
 * Inspect wheel rims for damage.
@@ -86,7 +86,7 @@ If you have a VIN, call your insurance to schedule the coverage date.
 * Test windshield wipers.
 * Test rear view camera.
 * Check side mirrors for proper operation of folding and position adjustment.
-* Check sunvisor operation.
+* Check sunvisor operation and mirror condition.
 
 ### Lighting inspection
 * Vanity mirror lights.
@@ -120,10 +120,13 @@ If you have a VIN, call your insurance to schedule the coverage date.
 * Check charge port indicator light.
 * Ensure vehicle will accept a charge.
 * Check mobile charging kit. Test it to ensure it works.
-	* J1772 Adapter
-	* NEMA 5-15 120v Adapter
+	* J1772 adapter
+	* NEMA 5-15 120v adapter
 	* NEMA 14-50 240v adapter
 	* Gen 2 Mobile Connector with cable
+	
+### Verify region-specific equipment
+* Maryland deliveries should include Tesla's officical inflation kit.
 
 ### Inspect pairing connectivity
 * Test both key cards to ensure they work with your car. Keep one key card on your person in case the phone app does not operate properly.
