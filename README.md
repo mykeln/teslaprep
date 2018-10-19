@@ -164,7 +164,7 @@ You can additionally check the [Master Model 3 Delivery Checklist](https://docs.
 2.  Download [Plugshare](http://plugshare.com/) to find chargers.
 3.  Go and try a supercharger (also a good excuse for a first drive)
 4.  Consider the paint protected with ceramic paint protection, which will help prevent scratches, stone chips, etc.
-5.  Install a [dash camera](https://teslatap.com/articles/ultimate-tesla-dashcam-guide/). Many owners opt for the [BlackVue](https://www.blackvue.com/) brand.
+5.  Install a [dash camera](https://teslatap.com/articles/ultimate-tesla-dashcam-guide/). Many owners opt for the [BlackVue](https://www.blackvue.com/) brand. UPDATE: This is now part of the car with the V9 update.
 6.  Consider alloy wheel insurance or protection.
 7.  [Learn how to properly wash your car](https://www.youtube.com/watch?v=uWmtLSQYbys).
 8.  Be aware the Model 3 does not come with a spare tire.
