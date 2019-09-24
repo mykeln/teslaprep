@@ -126,7 +126,7 @@ If you have a VIN, call your insurance to schedule the coverage date.
 	4d.  Mobile Connector with cable.
 	
 ### SECTION F - Verify region-specific equipment
-1.  Maryland deliveries should include Tesla's officical inflation kit.
+1.  Maryland deliveries should include Tesla's official inflation kit.
 
 ### SECTION G - Inspect pairing connectivity
 1.  Test both key cards to ensure they work with your car. Keep one key card on your person in case the phone app does not operate properly.
