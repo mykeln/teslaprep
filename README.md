@@ -124,8 +124,7 @@ If you have a VIN, call your insurance to schedule the coverage date.
 4.  Check mobile charging kit. Test it to ensure it works.
 	4a.  J1772 adapter.
 	4b.  NEMA 5-15 120v adapter.
-	4c.  NEMA 14-50 240v adapter.
-	4d.  Mobile Connector with cable.
+	4c.  Mobile Connector with cable.
 	
 ### SECTION F - Verify region-specific equipment
 1.  Maryland deliveries should include Tesla's official inflation kit.
