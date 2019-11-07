@@ -1,6 +1,6 @@
 # Tesla Prep
 
-If you've found this guide helpful, I'd appreciate you [using my referral link](https://www.tesla.com/referral/mykel48491) when ordering your Tesla!
+If you find this guide helpful, I'd appreciate you [using my referral link](https://www.tesla.com/referral/mykel48491) (mykel48491) when ordering your Tesla!
 
 A comprehensive guide on preparing for, taking delivery of, and owning a Tesla Model 3.
 
