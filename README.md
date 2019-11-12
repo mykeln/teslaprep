@@ -1,8 +1,8 @@
 # Tesla Prep
 
-If you find this guide helpful, I'd appreciate you [using my referral link](https://www.tesla.com/referral/mykel48491) (mykel48491) when ordering your Tesla!
+If you find this guide helpful, I would really appreciate it if you [use my referral link](https://www.tesla.com/referral/mykel48491) (mykel48491) when ordering your Tesla! (Thanks Brent, Tim and Alan!)
 
-A comprehensive guide on preparing for, taking delivery of, and owning a Tesla Model 3.
+This is a comprehensive guide on preparing for, taking delivery of, and owning a Tesla Model 3.
 
 I couldn't find a good resource for the soup-to-nuts process of buying a Model 3, so I made one. This document is adapted from Will Fealey's UK-based [guide](https://fealey.co.uk/tesla/things-to-check-when-you-pick-up-your-tesla/577) on the Model S. It's been Americanized and edited for the Model 3, with many new links and additional resources since Will's was originally written.
 
