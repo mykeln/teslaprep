@@ -1,6 +1,6 @@
 # Tesla Prep
 
-If you find this guide helpful, I would really appreciate it if you [use my referral link](https://www.tesla.com/referral/mykel48491) (mykel48491) when ordering your Tesla! (Thanks Brent, Tim and Alan!)
+If you find this guide helpful, I would really appreciate it if you [use my referral link](https://www.tesla.com/referral/mykel48491) (mykel48491) when ordering your Tesla. Using a referral code will grant you 2,000 free Supercharging miles. (Thanks Brent, Tim, Alan and Enedy!)
 
 This is a comprehensive guide on preparing for, taking delivery of, and owning a Tesla Model 3.
 
@@ -11,7 +11,7 @@ Congratulations! You've configured a Model 3. Now comes the hardest part: waitin
 
 You'll receive an email from Tesla saying something to the effect of "We'll be in touch!" Do not get financing quotes at this time. They expire after 30-days, and you will need to re-run credit checks.
 
-Depending on your financing choice during configuration, you'll see an "Edit Design" button on your account page all the way up until your car starts being built (this can be in as little as ten days before taking delivery). If you elected the "Cash" option for financing, your "Edit Design" button will disappear immediately, but it is still accessible by visiting https://www.tesla.com/teslaaccount/edit-design/RNXXXXXXXXXXX. Use this link to (relatively) officially check the status of your order up to 7 days before your delivery date.
+Depending on your financing choice during configuration, you'll see an "Edit Design" button on your account page all the way up until your car starts being built (this can be in as little as ten days before taking delivery). If you elected the "Cash" option for financing, your "Edit Design" button will disappear immediately, but it is still accessible by visiting https://www.tesla.com/teslaaccount/edit-design/RNXXXXXXX. Use this link to (relatively) officially check the status of your order up to 7 days before your delivery date.
 
 ### First contact
 You will eventually be contacted by a Tesla Delivery Advisor/Scheduler who will confirm your delivery date. Make sure your Tesla account reflects this date.
