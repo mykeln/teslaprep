@@ -31,7 +31,7 @@ Check your account for an assigned Vehicle Identification Number (VIN) and Motor
 
 If you have a VIN, call your insurance to schedule the coverage date.
 
-## Before you take delivery, you should:
+## Before delivery day, you should:
 1.  Watch the [Model 3 walkthrough videos on the support section of Tesla.com](https://www.tesla.com/support/model-3-videos). These are great at getting you started with the basics and will speed up your handover process.
 2.  Review the information supplied on the [Tesla Support pages](https://www.tesla.com/support?redirect=no), these pages go over details on financing, trade-ins, vehicle registration, insurance, warranty, etc.
 3.  Attend a [Tesla owner orientation event](https://www.tesla.com/events). You will meet other owners and learn lots of handy tips about general ownership, driving and living with the car.
@@ -42,6 +42,8 @@ If you have a VIN, call your insurance to schedule the coverage date.
 8.  Join the [official Tesla forum](https://forums.tesla.com/), the unofficial [Tesla Motors Club forum](https://teslamotorsclub.com/), and [r/teslamotors](http://reddit.com/r/teslamotors) subreddit.
 
 ## On delivery day, prior to arrival:
+If you haven't had any contact with a Delivery Advisor/Scheduler since "First Contact," before you drive anywhere, call the Tesla location where you're supposed to be picking up your car and verify it's indeed ready to go. There have been reports of people driving hours to pick up their Tesla only to be told their car isn't even in production yet.
+
 1.  Have the Tesla app installed on your smartphone prior to arrival for delivery.
 2.  Bring your driver’s license.
 3.  If your car will be registered to more than one person, each person on the registration needs to be at the delivery appointment to sign final documents.
@@ -56,6 +58,7 @@ If you have a VIN, call your insurance to schedule the coverage date.
 1.  Check for correct name and address on your paperwork.
 2.  Confirm vehicle's VIN matches your paperwork.
 3.  Check display screen for any information that does not match the car.
+4.  Verify that the car's Moroney paper matches your configuration.
 
 ### SECTION B - Exterior inspection
 1.  Check for correct vehicle body color and wheels.
