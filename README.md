@@ -4,7 +4,7 @@ If you find this guide helpful, I would really appreciate it if you [use my refe
 
 This is a comprehensive guide on preparing for, taking delivery of, and owning a Tesla Model 3.
 
-I couldn't find a good resource for the soup-to-nuts process of buying a Model 3, so I [made one] [1].
+I couldn't find a good resource for the soup-to-nuts process of buying a Model 3, so I made one<sup>1</sup>.
 
 ## Start
 Congratulations! You've configured a Model 3. Now comes the hardest part: waiting.
@@ -178,4 +178,4 @@ After checking in with a Tesla employee, you'll likely be waiting around for a w
 9.  When your registration arrives, check that it's the correct model listed (LR AWD, etc.), as it could affect selling your car in the future, insurance coverage, etc.
 10. Respond to the surveys that Tesla periodically sends. This the best way that you can directly impact improvements to the car and company.
 
-[1]: This document is adapted from Will Fealey's UK-based guide on the Model S. It's been Americanized and edited for the Model 3, with many new links and additional resources since Will's was originally written.
+<sup>1</sup> This document is adapted from Will Fealey's UK-based guide on the Model S. It's been Americanized and edited for the Model 3, with many new links and additional resources since Will's was originally written.
