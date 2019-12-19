@@ -17,8 +17,9 @@ Depending on your financing choice during configuration, you'll see an "Edit Des
 You will eventually be contacted by a Tesla Delivery Advisor/Scheduler who will confirm your delivery date. Make sure your Tesla account reflects this date.
 
 You'll want to get your home charging solution worked out at this point. There are many options depending on your needs:
+
 | Level   | Voltage | Rate of Charge                                         |
-|---------|---------|--------------------------------------------------------|
+|---|---|---|
 | Level 1 | 120V    | 2-5 miles per hour of charging (regular outlet)        |
 | Level 2 | 240V    | 9-52 miles per hour of charging ([Tesla Wall Connector](https://www.tesla.com/support/home-charging-installation/wall-connector)) |
 | Level 3 | 480V    | 200-1000 miles per hour of charging (Supercharging)    |
