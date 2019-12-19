@@ -26,6 +26,8 @@ You'll want to get your home charging solution worked out at this point. There a
 
 If you drive fewer than 70 miles per day, a regular wall outlet should be just fine. If you're driving more than that, and a Tesla Wall Connector will give you peace of mind. Many states offer a  [tax rebate](https://www.chargepoint.com/blog/electric-car-home-charger-rebates/) for the parts and labor of most charger installs.
 
+Tesla partners with local contractors to install their Wall Connector product. These contractors typically charge higher than average rates. Any reputable electrician should be able to do the work at a much lower price; it's relatively simple.
+
 ## <30 days before delivery
 Now is the time to get financing quotes from credit unions, banks, etc. Whatever quotes you get, if your credit history is excellent, use [Lightstream](https://www.lightstream.com/) to get an unsecured cash loan. They will beat any approved rate you send them.
 
@@ -141,9 +143,9 @@ After checking in with a Tesla employee, you'll likely be waiting around for a w
 2.  Check charge port indicator light.
 3.  Ensure vehicle will accept a charge.
 4.  Check mobile charging kit. Test it to ensure it works.
-	4a.  J1772 adapter.
-	4b.  NEMA 5-15 120v adapter.
-	4c.  Mobile Connector with cable.
+    -  J1772 adapter.
+	-  NEMA 5-15 120v adapter.
+	-  Mobile Connector with cable.
 	
 ## SECTION F - Verify region-specific equipment
 1.  Maryland deliveries should include Tesla's official inflation kit.
