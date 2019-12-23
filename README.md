@@ -33,6 +33,8 @@ Now is the time to get financing quotes from credit unions, banks, etc. Whatever
 
 Ensure you have the routing/account number of the account(s) you will be transferring funds from on delivery day (especially important on weekends).
 
+You may also want to order your [accessories](https://shop.tesla.com/category/vehicle-accessories) now, as they are often sold out. Yes, it'll feel weird to have all weather floor mats with no car, but it'll be worth it in the end. Not sure what to get? See the "Must-Have Accessories" section in the appendix.
+
 ## <10 days before delivery
 If applicable, finalize your financeer.
 
@@ -63,6 +65,7 @@ If you haven't had any contact with a Delivery Advisor/Scheduler since "First Co
 4.  Bring written or digital proof of your down payment having been made and the final payment details or financing details.  If you are financing your car, make sure your loan has been funded before you arrive to take delivery and that you have some kind of proof you can provide to Tesla should they ask about it.
 5.  Bring a printed insurance card or other proof of insurance that shows your Model 3 is insured.
 6.  Since the delivery area where you will inspect your Model 3 may be dark, bring a flashlight.
+7.  Bring a USB drive (32gb minimum recommended) to set up [Sentry mode and the dash cam](https://www.tesla.com/support/software-v9#dashcam).
 
 ### Arrival at the Delivery Center:
 After checking in with a Tesla employee, you'll likely be waiting around for a while. It's rare for a Tesla delivery center to _not_ be busy. Expect to wait for 2 hours or more before you're taken to see your car.
@@ -189,5 +192,13 @@ After checking in with a Tesla employee, you'll likely be waiting around for a w
 7.  Be aware the Model 3 does not come with a spare tire.
 8.  When your registration arrives, check that it's the correct model listed (AWD/SR+/etc.), as it could affect selling your car in the future, insurance coverage, etc.
 9. Respond to the surveys that Tesla periodically sends. This the best way that you can directly impact improvements to the car and company.
+
+# Appendix
+## Must-Have Accessories
+After a year and a half of Model 3 ownership, here are the accessories I have found to be real upgrades that I haven't taken for granted:
+1. All-weather floor mats [OEM (my recommendation)](https://shop.tesla.com/product/model-3-all-weather-floor-liners), [aftermarket](https://www.amazon.com/3D-MAXpider-B07D9GMYG8?tag=teslaprep-20). I keep these in my car year-round. It has helped preserve the new car smell, and is easy to keep clean.
+2. Wireless charging pad [OEM](https://shop.tesla.com/product/model-3-wireless-phone-charger), [aftermarket](https://www.amazon.com/TapTes-Horizontally-Vertically-Smartphone-Compatible/dp/B07X2RJ2V4?tag=teslaprep-20). I have the aftermarket one installed in mine. No issues.
+3. A fast-write [USB stick](https://www.amazon.com/dp/B01CIEBS74?tag=teslaprep-20) for Sentry and dashcam footage. I recommend one with a built-in lightning port to easily review footage on your iPhone.
+4. A [vinyl wrap](https://www.abstractocean.com/model-3-center-console-vinyl-wrap/) for the center console. The factory console is piano black, which is impossible not to scratch. Vinyl wraps are easy to install and (arguably) look better than stock.
 
 <sup>1</sup> This document is adapted from Will Fealey's UK-based guide on the Model S. It's been Americanized and edited for the Model 3, with many new links and additional resources since Will's was originally written.
