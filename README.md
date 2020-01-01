@@ -1,6 +1,6 @@
 # Tesla Prep
 
-If you find this guide helpful, I would really appreciate it if you [use my referral link](https://www.tesla.com/referral/mykel48491) (mykel48491) when ordering your Tesla. Using a referral code will grant you 2,000 free Supercharging miles. (Thanks Brent, Tim, Alan, Enedy, David, Ningzhi, Finn, Vasanth and Jose Alfonso!)
+If you find this guide helpful, I would really appreciate it if you [use my referral link](https://www.tesla.com/referral/mykel48491) (mykel48491) when ordering your Tesla. Using a referral code will grant you 2,000 free Supercharging miles. (Thanks Brent, Tim, Alan, Enedy, David, Ningzhi, Finn, Vasanth, Jose Alfonso, Marc and Charles!)
 
 This is a comprehensive guide on preparing for, taking delivery of, and owning a Tesla Model 3.
 
