@@ -1,17 +1,15 @@
 # Tesla Prep
 
-If you find this guide helpful, I would really appreciate it if you [use my referral link](https://www.tesla.com/referral/mykel48491) (mykel48491) when ordering your Tesla. Using a referral code will grant you 2,000 free Supercharging miles. (Thanks Brent, Tim, Alan, Enedy, David, Ningzhi, Finn, Vasanth, Jose Alfonso, Marc and Charles!)
+If you find this guide helpful, I would really appreciate it if you [use my referral link](https://www.tesla.com/referral/mykel48491) (mykel48491) when ordering your Tesla. Using a referral code will grant you 1,000 free Supercharging miles. (Thanks Brent, Tim, Alan, Enedy, David, Ningzhi, Finn, Vasanth, Jose Alfonso, Marc, Charles, Puspa, and Jordan!)
 
-This is a comprehensive guide on preparing for, taking delivery of, and owning a Tesla Model 3.
-
-I couldn't find a good resource for the soup-to-nuts process of buying a Model 3, so I made one<sup>1</sup>.
+I couldn't find a good resource for the soup-to-nuts process of buying a Model 3, so I made one. This is a comprehensive guide on preparing for, taking delivery of, and owning a Tesla Model 3.
 
 ## Start
 Congratulations! You've configured a Model 3. Now comes the hardest part: waiting.
 
-You'll receive an email from Tesla saying something to the effect of "We'll be in touch!" Do not get financing quotes at this time. They expire after 30-days, and you will need to re-run credit checks.
+You'll receive an email from Tesla saying something to the effect of "We'll be in touch!" Do not get financing quotes at this time. Quotes expire after 30 days, at which time you will need to rerun the credit check, which may lower your score.
 
-Depending on your financing choice during configuration, you'll see an "Edit Design" button on your account page all the way up until your car starts being built (this can be in as little as ten days before taking delivery). If you elected the "Cash" option for financing, your "Edit Design" button will disappear immediately, but it is still accessible by visiting `https://www.tesla.com/teslaaccount/edit-design/RNXXXXXXX`. Use this link to (relatively) officially check the status of your order up to 7 days before your delivery date.
+Depending on your financing choice during configuration, you'll see an "Edit Design" button on your account page all the way up until your car starts being built (this can be in as little as 7 days before taking delivery). If you elected to use the "Cash" option for financing, your "Edit Design" button will disappear immediately, but it is still accessible by visiting `https://www.tesla.com/teslaaccount/edit-design/RNXXXXXXX`. Use this link to (relatively) officially check the status of your order up to 7 days before your delivery date.
 
 ## First contact
 You will eventually be contacted by a Tesla Delivery Advisor/Scheduler who will confirm your delivery date. Make sure your Tesla account reflects this date.
@@ -24,40 +22,36 @@ You'll want to get your home charging solution worked out at this point. There a
 | Level 2 | 240V    | 9-52 miles per hour of charging ([Tesla Wall Connector](https://www.tesla.com/support/home-charging-installation/wall-connector)) |
 | Level 3 | 480V    | 200-1000 miles per hour of charging (Supercharging)    |
 
-If you drive fewer than 70 miles per day, a regular wall outlet should be just fine. If you're driving more than that, and a Tesla Wall Connector will give you peace of mind. Many states offer a  [tax rebate](https://www.chargepoint.com/blog/electric-car-home-charger-rebates/) for the parts and labor of most charger installs.
+If you drive fewer than 70 miles per day, a regular wall outlet should be just fine. If you're driving more than that, and a Tesla Wall Connector will give you peace of mind. Many states offer a  [tax rebate](https://www.chargepoint.com/blog/electric-car-home-charger-rebates/) for the parts and labor of most charging solution installs.
 
-Tesla partners with local contractors to install their Wall Connector product. These contractors typically charge higher than average rates. Any reputable electrician should be able to do the work at a much lower price; it's relatively simple.
+Tesla has [a list of recommended installers](https://www.tesla.com/support/find-an-installer). Tesla partners with reputable local contractors to install the Wall Connector product in your home, but these contractors typically charge higher than average rates. Any experienced electrician should be able to do the work at a much lower price; it's a relatively simple job. You can also check [YouTube](https://www.youtube.com/watch?v=UMKiwyWikNs) to do a DIY installation.
 
-## <30 days before delivery
+## 30 days before your delivery date
 Now is the time to get financing quotes from credit unions, banks, etc. Whatever quotes you get, if your credit history is excellent, use [Lightstream](https://www.lightstream.com/) to get an unsecured cash loan. They will beat any approved rate you send them.
 
-Ensure you have the routing/account number of the account(s) you will be transferring funds from on delivery day (especially important on weekends).
+Ensure you have the routing/account number of the account(s) you will be transferring funds from on delivery day (especially important on weekends when banks are closed).
 
 You may also want to order your [accessories](https://shop.tesla.com/category/vehicle-accessories) now, as they are often sold out. Yes, it'll feel weird to have all weather floor mats with no car, but it'll be worth it in the end. Not sure what to get? See the "Must-Have Accessories" section in the appendix.
 
-## <10 days before delivery
-If applicable, finalize your financeer.
+## 10 days before your delivery date
+Your "Edit Design" button and/or back-door link should stop working and you should finalize your financeer at this time. If the link still works, your delivery date is probably going to be delayed.
 
-Your "Edit Design" button and/or back-door link should stop working. If it doesn't, your delivery date is probably going to be delayed.
+## 7 days before your delivery date
+Check your Tesla account for an assigned Vehicle Identification Number (VIN) and Motor Vehicle Purchase Agreement (MVPA). If they are not showing up, the back-door method is to try buying a [Tesla Wall Connector](https://shop.tesla.com/us/en/product/vehicle-accessories/model-s_x_3-wall-connector.html). When you're checking out, if it says "No VIN assigned," you truly do not have a VIN. Your delivery date is probably going to be delayed.
 
-## <7 days before delivery
-Check your account for an assigned Vehicle Identification Number (VIN) and Motor Vehicle Purchase Agreement (MVPA). If they are not showing up, the back-door method is to try buying a [Tesla Wall Connector](https://shop.tesla.com/us/en/product/vehicle-accessories/model-s_x_3-wall-connector.html). When you're checking out, if it says "No VIN assigned," you truly do not have a VIN. Your delivery date is probably going to be delayed.
+If you have a VIN assigned, call your insurance to schedule the coverage date for your delivery day.
 
-If you have a VIN, call your insurance to schedule the coverage date.
-
-## Before delivery day, you should:
+## Anytime before delivery day, you should:
 1.  Watch the [Model 3 walkthrough videos on the support section of Tesla.com](https://www.tesla.com/support/model-3-videos). These are great at getting you started with the basics and will speed up your handover process.
 2.  Review the information supplied on the [Tesla Support pages](https://www.tesla.com/support?redirect=no), these pages go over details on financing, trade-ins, vehicle registration, insurance, warranty, etc.
 3.  Attend a [Tesla owner orientation event](https://www.tesla.com/events). You will meet other owners and learn lots of handy tips about general ownership, driving and living with the car.
-4.  [Get a home charger installed](https://www.tesla.com/support/home-charging-installation). Tesla has [a list of recommended installers](https://www.tesla.com/support/find-an-installer). You can also check [YouTube](https://www.youtube.com/watch?v=UMKiwyWikNs) to do a DIY installation.
-5.  [Download and read a copy of the owners manual](https://www.tesla.com/content/dam/tesla/Ownership/Own/Model%203%20Owners%20Manual.pdf). It will come in handy on your phone/computer for when you need it.
-6.  Read [What They Don't Tell You When You Buy an Electric Car](http://10ways.com/save/travel/car/what-they-dont-tell-you-when-you-buy-an-electric-car/9792)
-7.  Grab a [good tire inflator](https://www.amazon.com/dp/B01N224N1U?tag=thewire06-20&linkCode=xm2&ascsubtag=AgEAAAAAAAAAAR8J).
-8.  Join the [official Tesla forum](https://forums.tesla.com/), the unofficial [Tesla Motors Club forum](https://teslamotorsclub.com/), and [r/teslamotors](http://reddit.com/r/teslamotors) subreddit.
+4.  [Download and read a copy of the owners manual](https://www.tesla.com/content/dam/tesla/Ownership/Own/Model%203%20Owners%20Manual.pdf). It will come in handy on your phone/computer for when you need it.
+5.  Grab a [good tire inflator](https://www.amazon.com/dp/B01N224N1U?tag=thewire06-20&linkCode=xm2&ascsubtag=AgEAAAAAAAAAAR8J).
+6.  Join the [official Tesla forum](https://forums.tesla.com/), the unofficial [Tesla Motors Club forum](https://teslamotorsclub.com/), and [r/teslamotors](http://reddit.com/r/teslamotors) subreddit.
 
 ## Delivery day
 ### Before heading to the Delivery Center:
-If you haven't had any contact with a Delivery Advisor/Scheduler since "First Contact," before you drive anywhere, call the Tesla location where you're supposed to be picking up your car and verify it's indeed ready to go. There have been reports of people driving hours to pick up their Tesla only to be told their car isn't even in production yet.
+If you haven't had any contact with a Delivery Advisor/Scheduler since "First Contact," before you drive to pick your car up, call the Tesla delivery location's direct number, and verify that your car is indeed ready to go. There have been reports of people driving hours to pick up their Tesla only to be told their car isn't even in production yet!
 
 1.  Have the Tesla app installed on your smartphone prior to arrival for delivery.
 2.  Bring your driver’s license.
@@ -200,5 +194,3 @@ After a year and a half of Model 3 ownership, here are the accessories I have fo
 2. Wireless charging pad [OEM](https://shop.tesla.com/product/model-3-wireless-phone-charger), [aftermarket](https://www.amazon.com/TapTes-Horizontally-Vertically-Smartphone-Compatible/dp/B07X2RJ2V4?tag=teslaprep-20). I have the aftermarket one installed in mine. No issues.
 3. A fast-write [USB stick](https://www.amazon.com/dp/B01CIEBS74?tag=teslaprep-20) for Sentry and dashcam footage. I recommend one with a built-in lightning port to easily review footage on your iPhone.
 4. A [vinyl wrap](https://www.abstractocean.com/model-3-center-console-vinyl-wrap/) for the center console. The factory console is piano black, which is impossible not to scratch. Vinyl wraps are easy to install and (arguably) look better than stock.
-
-<sup>1</sup> This document is adapted from Will Fealey's UK-based guide on the Model S. It's been Americanized and edited for the Model 3, with many new links and additional resources since Will's was originally written.
