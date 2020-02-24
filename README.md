@@ -37,7 +37,7 @@ You may also want to order your [accessories](https://shop.tesla.com/category/ve
 Your "Edit Design" button and/or back-door link should stop working and you should finalize your financeer at this time. If the link still works, your delivery date is probably going to be delayed.
 
 ## 7 days before your delivery date
-Check your Tesla account for an assigned Vehicle Identification Number (VIN) and Motor Vehicle Purchase Agreement (MVPA). If they are not showing up, the back-door method is to try buying a [Tesla Wall Connector](https://shop.tesla.com/us/en/product/vehicle-accessories/model-s_x_3-wall-connector.html). When you're checking out, if it says "No VIN assigned," you truly do not have a VIN. Your delivery date is probably going to be delayed.
+Check your Tesla account for an assigned Vehicle Identification Number (VIN) and Motor Vehicle Purchase Agreement (MVPA). If they are not showing up, the back-door method is to try buying a [Tesla Wall Connector](https://shop.tesla.com/product/wall-connector). When you're checking out, if it says "No VIN assigned," you truly do not have a VIN. Your delivery date is probably going to be delayed.
 
 If you have a VIN assigned, call your insurance to schedule the coverage date for your delivery day.
 
