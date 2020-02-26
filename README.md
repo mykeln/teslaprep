@@ -1,6 +1,6 @@
 # Tesla Prep
 
-If you find this guide helpful, I would really appreciate it if you [use my referral link](https://www.tesla.com/referral/mykel48491) (mykel48491) when ordering your Tesla. Using a referral code will grant you 1,000 free Supercharging miles. (Thanks Brent, Tim, Alan, Enedy, David, Ningzhi, Finn, Vasanth, Jose Alfonso, Marc, Charles, Puspa, and Jordan!)
+If you find this guide helpful, I would really appreciate it if you [use my referral link](https://www.tesla.com/referral/mykel48491) (mykel48491) when ordering your Tesla. Using a referral code will grant you 1,000 free Supercharging miles. (Thanks Brent, Tim, Alan, Enedy, David, Ningzhi, Jose Alfonso, Marc, Charles, Puspa, Jordan, Stefani and Cory!)
 
 I couldn't find a good resource for the soup-to-nuts process of buying a Model 3, so I made one. This is a comprehensive guide on preparing for, taking delivery of, and owning a Tesla Model 3.
 
@@ -190,7 +190,7 @@ After checking in with a Tesla employee, you'll likely be waiting around for a w
 # Appendix
 ## Must-Have Accessories
 After a year and a half of Model 3 ownership, here are the accessories I have found to be real upgrades that I haven't taken for granted:
-1. All-weather floor mats [OEM (my recommendation)](https://shop.tesla.com/product/model-3-all-weather-floor-liners), [aftermarket](https://www.amazon.com/3D-MAXpider-B07D9GMYG8?tag=teslaprep-20). I keep these in my car year-round. It has helped preserve the new car smell, and is easy to keep clean.
+1. All-weather floor mats [OEM (my recommendation)](https://shop.tesla.com/product/model-3-all-weather-floor-liners), [aftermarket](https://www.amazon.com/3D-MAXpider-B07D9GMYG8-Complete-All-Weather/dp/B07D9GMYG8). I keep these in my car year-round. It has helped preserve the new car smell, and is easy to keep clean.
 2. Wireless charging pad [OEM](https://shop.tesla.com/product/model-3-wireless-phone-charger), [aftermarket](https://www.amazon.com/TapTes-Horizontally-Vertically-Smartphone-Compatible/dp/B07X2RJ2V4?tag=teslaprep-20). I have the aftermarket one installed in mine. No issues.
 3. A fast-write [USB stick](https://www.amazon.com/dp/B01CIEBS74?tag=teslaprep-20) for Sentry and dashcam footage. I recommend one with a built-in lightning port to easily review footage on your iPhone.
 4. A [vinyl wrap](https://www.abstractocean.com/model-3-center-console-vinyl-wrap/) for the center console. The factory console is piano black, which is impossible not to scratch. Vinyl wraps are easy to install and (arguably) look better than stock.
