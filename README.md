@@ -1,8 +1,7 @@
 # Tesla Prep
+I couldn't find a good resource for the soup-to-nuts process of buying a Model 3, so I made one. This is a comprehensive guide on preparing for, taking delivery of, and owning a Tesla Model 3.
 
 If you find this guide helpful, I would really appreciate it if you [use my referral link](https://www.tesla.com/referral/mykel48491) (mykel48491) when ordering your Tesla. Using a referral code will grant you 1,000 free Supercharging miles. (Thanks Brent, Tim, Alan, Enedy, David, Ningzhi, Jose Alfonso, Marc, Charles, Puspa, Jordan, Stefani, Cory and Iyya!)
-
-I couldn't find a good resource for the soup-to-nuts process of buying a Model 3, so I made one. This is a comprehensive guide on preparing for, taking delivery of, and owning a Tesla Model 3.
 
 ## Start
 Congratulations! You've configured a Model 3. Now comes the hardest part: waiting.
