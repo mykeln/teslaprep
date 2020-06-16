@@ -39,6 +39,8 @@
 - [ ] 14.  Check side mirrors for proper operation of folding and position adjustment.
 - [ ] 15.  Check sun-visor operation and mirror condition.
 - [ ] 16.  Check the rearview mirror for any warping or distortion.
+- [ ] 17.  Test connectivity in all USB ports (1 USB-A/1 USB-C in the front, 2 USB-C in the rear).
+- [ ] 18.  Test connectivity of wireless phone charger.
 
 ## SECTION D - Lighting inspection
 - [ ] 1.  Vanity mirror lights.
