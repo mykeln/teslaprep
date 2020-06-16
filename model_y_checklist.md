@@ -31,14 +31,15 @@
 - [ ] 6.  Check left and right clothing hook operation.
 - [ ] 7.  Check all seat belts for proper operation.
 - [ ] 8.  Check the rear seats for proper fold-down operation.
-- [ ] 9.  Test the sound system to ensure all speakers are working (move fade/balance to all four points to verify)
-- [ ] 10.  Test the steering wheel position controls to ensure proper operation.
-- [ ] 11.  Press the center of the steering wheel to make sure the vehicle's horn works.
-- [ ] 12.  Test the windshield wipers.
-- [ ] 13.  Test the rearview camera.
-- [ ] 14.  Check side mirrors for proper operation of folding and position adjustment.
-- [ ] 15.  Check sun-visor operation and mirror condition.
-- [ ] 16.  Check the rearview mirror for any warping or distortion.
+- [ ] 9   Try to lift the bottom of the back seat to ensure it is securely attached to its base.
+- [ ] 10.  Test the sound system to ensure all speakers are working (move fade/balance to all four points to verify)
+- [ ] 11.  Test the steering wheel position controls to ensure proper operation.
+- [ ] 12.  Press the center of the steering wheel to make sure the vehicle's horn works.
+- [ ] 13.  Test the windshield wipers.
+- [ ] 14.  Test the rearview camera.
+- [ ] 15.  Check side mirrors for proper operation of folding and position adjustment.
+- [ ] 16.  Check sun-visor operation and mirror condition.
+- [ ] 17.  Check the rearview mirror for any warping or distortion.
 
 ## SECTION D - Lighting inspection
 - [ ] 1.  Vanity mirror lights.
