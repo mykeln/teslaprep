@@ -1,4 +1,5 @@
-*Feel free to print this out and bring it, along with a pen*
+*Feel free to print this out and bring it, along with a pen. Don't feel like you need to rush through the inspection. The delivery team at Tesla will certainly seem like they want to move quickly, but you don't need to leave the lot until you're 100% satisfied. Take your time."
+
 ## SECTION A - Verify pre-delivery vehicle records
 - [ ] 1.  Check for the correct full name and address on your paperwork.
 - [ ] 2.  Confirm the vehicle's VIN matches your paperwork.
