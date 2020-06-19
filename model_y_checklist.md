@@ -9,19 +9,20 @@
 - [ ] 1.  Verify that the vehicle's body color, interior, and wheels match what you configured.
 - [ ] 2.  Inspect body exterior paint for defects. *NOTE: This should really be the only item which should cause you to reject a delivery; most other issues can be easily addressed in a separate service visit.*
 - [ ] 3.  Inspect vehicle underside (front and rear) for signs of scraping, or damage.
-- [ ] 4.  Check for any obvious body panel misalignment, or large gaps.
+- [ ] 4.  Check for any obvious body panel misalignment, or gaps. Especially the charge port, taillight and headlight housings.
 - [ ] 5.  Inspect wheel rims for damage.
 - [ ] 6.  Inspect all glass for signs of distortion, scratches, or cracks.
 - [ ] 7.  Check for proper windshield and windshield trim installation.
 - [ ] 8.  Inspect all edges of the roof glass panel and rear window.
 - [ ] 9.  Test all doors to ensure they open and close without unreasonable effort or sound. Check paint in areas such as door hinges, that are not visible when doors are closed. *NOTE: Some deliveries have reported incomplete body painting in hidden areas.*
-- [ ] 10.  Test opening and closing of trunk and frunk. Check paint in areas that are not visible when frunk and trunk are closed.  *NOTE: Some deliveries have reported incomplete body painting in hidden areas.*
-- [ ] 11.  Check for the towing eye under the frunk mat.
-- [ ] 12.  Check for the tow harness (if tow hitch was ordered).
-- [ ] 13.  Ensure door windows auto-close completely when doors are closed.
-- [ ] 14.  Check for front license plate bracket (if applicable in your state).
-- [ ] 15.  Check all front and rear exterior lights for signs of internal condensation.
-- [ ] 16.  With all doors open, inspect the weather seals around door gaps and windows. *NOTE: Some deliveries have reported seals being "overlapped" incorrectly. This is easily fixed by hand in a few seconds, but worth noting.*
+- [ ] 10.  Test opening and closing of the frunk. Check paint in areas that are not visible when frunk and trunk are closed.  *NOTE: Some deliveries have reported incomplete body painting in hidden areas.*
+- [ ] 11.  Test opening and closing of the trunk using the auto-close button. The door should latch and seal automatically.
+- [ ] 12.  Check for the towing eye under the frunk mat.
+- [ ] 13.  Check for the tow harness (if tow hitch was ordered).
+- [ ] 14.  Ensure door windows auto-close completely when doors are closed.
+- [ ] 15.  Check for front license plate bracket (if applicable in your state).
+- [ ] 16.  Check all front and rear exterior lights for signs of internal condensation.
+- [ ] 17.  With all doors open, inspect the weather seals around door gaps and windows. *NOTE: Some deliveries have reported seals being "overlapped" incorrectly. This is easily fixed by hand in a few seconds, but worth noting.*
 
 ## SECTION C - Interior inspection
 - [ ] 1.  Check for any error messages on the display screen.
@@ -72,7 +73,7 @@
 - [ ] 26.  Sunvisor driver and passenger lights.
 
 ## SECTION E - Inspect charging ability
-- [ ] 1.  Check the charge port door for proper operation.
+- [ ] 1.  Check the charge port door for proper operation and alignment.
 - [ ] 2.  Check charge port indicator light.
 - [ ] 3.  Ensure the vehicle will accept a charge.
 - [ ] 4.  Check the mobile charging kit. Test it to ensure it works.
