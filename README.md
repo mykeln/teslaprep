@@ -103,7 +103,7 @@ After checking in with a Tesla employee, you'll likely be waiting around for a w
 6.  [Learn how to properly wash your vehicle](https://www.youtube.com/watch?v=uWmtLSQYbys).
 7.  Be aware that the Model 3 and Model Y do not come with a spare tire.
 8.  When your registration arrives, check that it's the correct model listed (AWD/SR+/etc.), as it could affect selling your vehicle in the future, insurance coverage, etc.
-9. Respond to the surveys that Tesla periodically sends. This the best way that you can directly impact improvements to the vehicle and company.
+9. Respond to the surveys that Tesla periodically sends. This is the best way that you can directly impact improvements to the vehicle and company.
 
 # Appendix
 ## Must-Have Accessories
