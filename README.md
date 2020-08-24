@@ -42,6 +42,8 @@ Check your Tesla account for an assigned Vehicle Identification Number (VIN) and
 
 If you have a VIN assigned, call your insurance to schedule the coverage date for your delivery day.
 
+Some states require a vehicle insepction within 10 days after taking delivery. It's a good idea to have this figured out, ahead of time, so that you have an appointment setup in advance, if your state requires it *(your Tesla Advisor should be able answer any questions about this and/or if it's even required, if you aren't sure)*. Additionally, I would inquire about their experience with inspecting Teslas.
+
 ## Anytime before delivery day, you should:
 1.  Watch [Model 3](https://www.tesla.com/support/model-3-videos) or [Model Y](https://www.tesla.com/support/model-y-videos) walkthrough videos. These are great at getting you started with the basics and will speed up your handover process.
 2.  Review the information supplied on the [Tesla Support pages](https://www.tesla.com/support), these pages go over details on financing, trade-ins, vehicle registration, insurance, warranty, etc.
