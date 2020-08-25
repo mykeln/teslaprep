@@ -44,7 +44,6 @@ If you drive fewer than 70 miles per day, a regular wall outlet should be just f
 
 Tesla has [a list of recommended installers](https://www.tesla.com/support/find-an-installer). Tesla partners with reputable local contractors to install the Wall Connector product in your home, but these contractors typically charge higher than average rates. Any experienced electrician should be able to do the work at a much lower price; it's a relatively simple job. You can also check [YouTube](https://www.youtube.com/watch?v=UMKiwyWikNs) to do a DIY installation.
 
-<a name="30Days">
 
 ## 30 days before your delivery date
 Now is the time to get financing quotes from credit unions, banks, etc. Whatever quotes you get, if your credit history is excellent, use [Lightstream](https://www.lightstream.com/) to get an unsecured cash loan. They will beat any approved rate you send them.
@@ -53,12 +52,10 @@ Ensure you have the routing/account number of the account(s) you will be transfe
 
 You may also want to order your [accessories](https://shop.tesla.com/category/vehicle-accessories) now, as they are often sold out. Yes, it'll feel weird to have all weather floor mats with no vehicle, but it'll be worth it in the end. Not sure what to get? See the "Must-Have Accessories" section in the appendix.
 
-<a name="10Days">
 
 ## 10 days before your delivery date
 Your "Edit Design" button and/or back-door link should stop working and you should finalize your financeer at this time. If the link still works, your delivery date is probably going to be delayed.
 
-<a name="7Days">
 
 ## 7 days before your delivery date
 Check your Tesla account for an assigned Vehicle Identification Number (VIN) and Motor Vehicle Purchase Agreement (MVPA). If they are not showing up, the back-door method is to try buying a [Tesla Wall Connector](https://shop.tesla.com/product/wall-connector). When you're checking out, if it says "No VIN assigned," you truly do not have a VIN. Your delivery date is probably going to be delayed.
@@ -67,7 +64,6 @@ If you have a VIN assigned, call your insurance to schedule the coverage date fo
 
 Some states require a vehicle insepction be completed at a state certified inspection facility, after you take ownership of the car. Rules vary by state,but if you have previously owned cars in the state you live in, the process should be the same as you have always known. If you recently moved to a new state, this is something you want to make sure you look in to.
 
-<a name="BeforeDelivery">
 
 ## Anytime before delivery day, you should:
 1.  Watch [Model 3](https://www.tesla.com/support/model-3-videos) or [Model Y](https://www.tesla.com/support/model-y-videos) walkthrough videos. These are great at getting you started with the basics and will speed up your handover process.
@@ -77,7 +73,6 @@ Some states require a vehicle insepction be completed at a state certified inspe
 5.  Grab a [good tire inflator](https://www.amazon.com/dp/B01N224N1U?tag=mykelteslapre-20).
 6.  Join the [official Tesla forum](https://forums.tesla.com/), the unofficial [Tesla Motors Club forum](https://teslamotorsclub.com/), and [r/teslamotors](http://reddit.com/r/teslamotors) subreddit.
 
-<a name="DeliveryDay">
 
 ## Delivery day
 ### Before heading to the Delivery Center:
@@ -96,13 +91,11 @@ After checking in with a Tesla employee, you'll likely be waiting around for a w
 
 *NOTE: Do not sign final documents, or wire funds, until a full vehicle inspection is completed.*
 
-<a name="InspectionChecklist">
 
 # VEHICLE INSPECTION CHECKLIST
 - [Model 3 delivery checklist](model_3_checklist.md)
 - [Model Y delivery checklist](model_y_checklist.md)
 
-<a name="PostInspection">
 
 ## Post-inspection:
 ### Verify post-delivery vehicle records
@@ -127,7 +120,6 @@ After checking in with a Tesla employee, you'll likely be waiting around for a w
 13. Where to find [roadside assistance](https://www.tesla.com/support/customer-support-roadside-assistance) info from the main screen.
 14. Your local [service center](https://www.tesla.com/findus/list/services/United%20States) support number.
 
-<a name="AfterFirstDrive">
 
 ## After your first drive
 1.  **Keep driving!**
@@ -141,7 +133,6 @@ After checking in with a Tesla employee, you'll likely be waiting around for a w
 9. Respond to the surveys that Tesla periodically sends. This is the best way that you can directly impact improvements to the vehicle and company.
 
 
-
 # Appendix
 ## Must-Have Accessories
 After a year and a half of Tesla ownership, here are the accessories I have found to be real upgrades that I haven't taken for granted:
@@ -149,3 +140,5 @@ After a year and a half of Tesla ownership, here are the accessories I have foun
 2. Wireless charging pad [OEM](https://shop.tesla.com/product/model-3-wireless-phone-charger), [aftermarket](https://www.amazon.com/TapTes-Horizontally-Vertically-Smartphone-Compatible/dp/B07X2RJ2V4?tag=mykelteslapre-20). I have the aftermarket one installed in mine. No issues.
 3. A fast-write [USB stick](https://www.amazon.com/dp/B01CIEBS74?tag=mykelteslapre-20) for Sentry and dashcam footage. I recommend one with a built-in lightning port to easily review footage on your iPhone.
 4. A [vinyl wrap](https://www.abstractocean.com/model-3-center-console-vinyl-wrap/) for the center console. The factory console is piano black, which is impossible not to scratch. Vinyl wraps are easy to install and (arguably) look better than stock.
+
+[*Back to Top*](#tesla-prep)
