@@ -27,7 +27,6 @@ You'll receive an email from Tesla saying something to the effect of "We'll be i
 
 Depending on your financing choice during configuration, you'll see an "Edit Design" button on your account page all the way up until your vehicle starts being built (this can be in as little as 7 days before taking delivery). If you elected to use the "Cash" option for financing, your "Edit Design" button will disappear immediately, but it is still accessible by visiting `https://www.tesla.com/teslaaccount/edit-design/RNXXXXXXX`. Use this link to (relatively) officially check the status of your order up to 7 days before your delivery date.
 
-<a name="First">
 
 ## First contact
 You will eventually be contacted by a Tesla Delivery Advisor/Scheduler who will confirm your delivery date. Make sure your Tesla account reflects this date.
