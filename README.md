@@ -8,20 +8,17 @@ If you find this guide helpful, I would really appreciate it if you [use my refe
 |Navigation|
 |-----------------|
 |[Start: Configuration complete](#start-configuration-complete)|
-|[First Contact](#First) |
-|[30 days before your delivery date](#30Days) |
-|[10 days before your delivery date](#10Days) |
-|[7 days before your delivery date](#7Days) |
-|[Anytime before delivery day](#BeforeDelivery) |
-|[Delivery Day](#DeliveryDay) |
-|[**Inspection Checklist**](#InspectionChecklist) |
-|[Post Inspection](#PostInspection)|
-|[After your first drive](#AfterFirstDrive) |
-|[Appendix](#Appendix) |
+|[First Contact](#first-contact) |
+|[30 days before your delivery date](#30-days-before-your-delivery-date) |
+|[10 days before your delivery date](#10-days-before-your-delivery-date) |
+|[7 days before your delivery date](#7-days-before-your-delivery-date) |
+|[Anytime before delivery day](#anytime-before-delivery-day-you-should) |
+|[Delivery Day](#delivery-day) |
+|[**Inspection Checklist**](#vehicle-inspection-checklist) |
+|[Post Inspection](#post-inspection)|
+|[After your first drive](#after-your-first-drive) |
+|[Appendix](#appendix) |
 
-
-
-<a name="Start">
 
 ## Start: Configuration complete
 Congratulations! You've configured your Tesla. Now comes the hardest part: waiting.
@@ -143,7 +140,7 @@ After checking in with a Tesla employee, you'll likely be waiting around for a w
 8.  When your registration arrives, check that it's the correct model listed (AWD/SR+/etc.), as it could affect selling your vehicle in the future, insurance coverage, etc.
 9. Respond to the surveys that Tesla periodically sends. This is the best way that you can directly impact improvements to the vehicle and company.
 
-<a name="Appendix">
+
 
 # Appendix
 ## Must-Have Accessories
