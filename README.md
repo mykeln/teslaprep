@@ -7,7 +7,7 @@ If you find this guide helpful, I would really appreciate it if you [use my refe
 
 |Navigation|
 |-----------------|
-|[Start: Configuration complete](#start:-configuration-complete)|
+|[Start: Configuration complete](#start-configuration-complete)|
 |[First Contact](#First) |
 |[30 days before your delivery date](#30Days) |
 |[10 days before your delivery date](#10Days) |
