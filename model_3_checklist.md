@@ -1,4 +1,6 @@
-*Feel free to print this out and bring it, along with a pen. Don't feel like you need to rush through the inspection. The delivery team at Tesla will certainly seem like they want to move quickly, but you don't need to leave the lot until you're 100% satisfied. Take your time."
+*Feel free to print this out and bring it, along with a pen. Don't feel like you need to rush through the inspection. The delivery team at Tesla will certainly seem like they want to move quickly, but you don't need to leave the lot until you're 100% satisfied. Take your time.*
+
+*Todoist users can import this checklist as a new Project [using this link](https://bit.ly/Model3Checklist). For more information about Todoist templates [Click Here](https://get.todoist.help/hc/en-us/articles/208821185-Importing-Exporting-Project-Templates)*
 
 ## SECTION A - Verify pre-delivery vehicle records
 - [ ] 1.  Check for the correct full name and address on your paperwork.
