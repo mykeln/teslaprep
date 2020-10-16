@@ -18,12 +18,13 @@
 - [ ] 7.  Check for proper windshield and windshield trim installation.
 - [ ] 8.  Inspect all edges of the roof glass panel and rear window.
 - [ ] 9.  Test all doors to ensure they open and close without unreasonable effort or sound. Check paint in areas such as door hinges, that are not visible when doors are closed. *NOTE: Some deliveries have reported incomplete body painting in hidden areas.*
-- [ ] 10.  Test opening and closing of trunk and frunk. Check paint in areas that are not visible when frunk and trunk are closed.  *NOTE: Some deliveries have reported incomplete body painting in hidden areas.*
-- [ ] 11.  Check for the towing eye under the frunk mat.
-- [ ] 12.  Ensure door windows auto-close completely when doors are closed.
-- [ ] 13.  Check for front license plate bracket (if applicable in your state).
-- [ ] 14.  Check all front and rear exterior lights for signs of internal condensation.
-- [ ] 15.  With all doors open, inspect the weather seals around door gaps and windows. *NOTE: Some deliveries have reported seals being "overlapped" incorrectly. This is easily fixed by hand in a few seconds, but worth noting.*
+- [ ] 10.  Test power liftgate operation on trunk.
+- [ ] 11.  Test opening and closing of trunk and frunk. Check paint in areas that are not visible when frunk and trunk are closed.  *NOTE: Some deliveries have reported incomplete body painting in hidden areas.*
+- [ ] 12.  Check for the towing eye under the frunk mat.
+- [ ] 13.  Ensure door windows auto-close completely when doors are closed.
+- [ ] 14.  Check for front license plate bracket (if applicable in your state).
+- [ ] 15.  Check all front and rear exterior lights for signs of internal condensation.
+- [ ] 16.  With all doors open, inspect the weather seals around door gaps and windows. *NOTE: Some deliveries have reported seals being "overlapped" incorrectly. This is easily fixed by hand in a few seconds, but worth noting.*
 
 ## SECTION C - Interior inspection
 - [ ] 1.  Check for any error messages on the display screen.
@@ -44,6 +45,7 @@
 - [ ] 16.  Check the rearview mirror for any warping or distortion.
 - [ ] 17.  Test connectivity in all USB ports (1 USB-A/1 USB-C in the front, 2 USB-C in the rear).
 - [ ] 18.  Test connectivity of wireless phone charger.
+- [ ] 19.  Check center console cover slide operation.
 
 ## SECTION D - Lighting inspection
 - [ ] 1.  Vanity mirror lights.
