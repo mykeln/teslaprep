@@ -50,28 +50,26 @@
 - [ ] 1.  Vanity mirror lights.
 - [ ] 2.  Front overhead driver & passenger lights.
 - [ ] 3.  Rear overhead left & right side lights.
-- [ ] 4.  Ambient lights
-- [ ] 5.  Driver & passenger foot wells
-- [ ] 6.  Driver & passenger door pockets
-- [ ] 7.  Rear left & right door pockets.
-- [ ] 8.  Driver & passenger door puddle lights.
-- [ ] 9.  Console middle compartment light.
-- [ ] 10.  Console rear compartment light.
-- [ ] 11.  All door latch button lights.
-- [ ] 12.  All door window button lights.
-- [ ] 13.  Steering wheel control lights.
-- [ ] 14.  Glovebox light (check glovebox opening and closing).
-- [ ] 15.  Frunk light.
-- [ ] 16.  Trunk lights (2).
-- [ ] 17.  Fog lights.
-- [ ] 19.  Headlights (low & high-beam).
-- [ ] 20.  Front park lights.
-- [ ] 21.  Front turn signal lights.
-- [ ] 22.  Left & right side turn signal lights.
-- [ ] 23.  Rear running lights.
-- [ ] 24.  Brake lights.
-- [ ] 25.  Rear turn signal lights.
-- [ ] 26.  Sunvisor driver and passenger lights.
+- [ ] 4.  Ambient lights.
+- [ ] 5.  Driver & passenger foot wells.
+- [ ] 6.  Driver & passenger door puddle lights.
+- [ ] 7.  Console middle compartment light.
+- [ ] 8.  Console rear compartment light.
+- [ ] 9.  All door latch button lights.
+- [ ] 10.  All door window button lights.
+- [ ] 11.  Steering wheel control lights.
+- [ ] 12.  Glovebox light (check glovebox opening and closing).
+- [ ] 13.  Frunk light.
+- [ ] 14.  Trunk lights (2).
+- [ ] 15.  Fog lights.
+- [ ] 16.  Headlights (low & high-beam).
+- [ ] 17.  Front park lights.
+- [ ] 18.  Front turn signal lights.
+- [ ] 19.  Left & right side turn signal lights.
+- [ ] 20.  Rear running lights.
+- [ ] 21.  Brake lights.
+- [ ] 22.  Rear turn signal lights.
+- [ ] 23.  Sunvisor driver and passenger lights.
 
 ## SECTION E - Inspect charging ability
 - [ ] 1.  Check the charge port door for proper operation and alignment.
