@@ -53,8 +53,6 @@
 - [ ] 3.  Rear overhead left & right side lights.
 - [ ] 4.  Ambient lights
 - [ ] 5.  Driver & passenger foot wells
-- [ ] 6.  Driver & passenger door pockets
-- [ ] 7.  Rear left & right door pockets.
 - [ ] 8.  Driver & passenger door puddle lights.
 - [ ] 9.  Console middle compartment light.
 - [ ] 10.  Console rear compartment light.
