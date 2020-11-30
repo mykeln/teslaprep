@@ -39,7 +39,7 @@ You'll want to get your home charging solution worked out at this point. There a
 | Level 2 | 240V    | 9-52 miles per hour of charging ([Tesla Wall Connector](https://www.tesla.com/support/home-charging-installation/wall-connector)) |
 | Level 3 | 480V    | 200-1000 miles per hour of charging (Supercharging)    |
 
-If you drive fewer than 70 miles per day, a regular wall outlet should be just fine. If you're driving more than that, and a Tesla Wall Connector will give you peace of mind. Many states offer a  [tax rebate](https://www.chargepoint.com/blog/electric-car-home-charger-rebates/) for the parts and labor of most charging solution installs.
+Level 3 isn't really a home charging option; it's just here for comparison. If you drive fewer than 70 miles per day, a regular wall outlet should be just fine. If you're driving more than that, and a Tesla Wall Connector will give you peace of mind. Many states offer a  [tax rebate](https://www.chargepoint.com/blog/electric-car-home-charger-rebates/) for the parts and labor of most charging solution installs.
 
 Tesla has [a list of recommended installers](https://www.tesla.com/support/find-an-installer). Tesla partners with reputable local contractors to install the Wall Connector product in your home, but these contractors typically charge higher than average rates. Any experienced electrician should be able to do the work at a much lower price; it's a relatively simple job. You can also check [YouTube](https://www.youtube.com/watch?v=UMKiwyWikNs) to do a DIY installation.
 
