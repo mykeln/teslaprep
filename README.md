@@ -7,12 +7,12 @@ If you find this guide helpful, I would really appreciate it if you [use my refe
 
 |Navigation|
 |-----------------|
-|[Configuration complete](#start-configuration-complete)|
+|[Configuration complete](#configuration-complete)|
 |[First Contact](#first-contact) |
 |[30 days before your delivery date](#30-days-before-your-delivery-date) |
 |[10 days before your delivery date](#10-days-before-your-delivery-date) |
 |[7 days before your delivery date](#7-days-before-your-delivery-date) |
-|[Anytime before delivery day](#anytime-before-delivery-day-you-should) |
+|[Anytime before delivery day](#anytime-before-delivery-day) |
 |[Delivery day](#delivery-day) |
 |[**Inspection Checklist**](#vehicle-inspection-checklist) |
 |[Post-inspection](#post-inspection)|
