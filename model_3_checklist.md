@@ -6,7 +6,7 @@
 - [ ] 1.  Check for the correct full name and address on your paperwork.
 - [ ] 2.  Confirm the vehicle's VIN matches your paperwork.
 - [ ] 3.  Check the vehicle's display screen for any information that does not match the vehicle (found by tapping the Tesla "T").
-- [ ] 4.  Verify that the vehicle's Moroney record matches your configuration.
+- [ ] 4.  Verify that the vehicle's Monroney record matches your configuration.
 
 ## SECTION B - Exterior inspection
 - [ ] 1.  Verify that the vehicle's body color, interior, and wheels match what you configured.
