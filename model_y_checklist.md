@@ -3,7 +3,7 @@
 ## SECTION A - Verify pre-delivery vehicle records
 - [ ] 1.  Check for the correct full name and address on your paperwork.
 - [ ] 2.  Confirm the vehicle's VIN matches your paperwork.
-- [ ] 3.  Check the vehicle's display screen for any information that does not match the vehicle (found by tapping the Tesla "T").
+- [ ] 3.  Check the vehicle's "About" screen for any information that does not match the vehicle (found by tapping the car icon in the bottom-right, then tapping Software).
 - [ ] 4.  Verify that the vehicle's Monroney record matches your configuration.
 
 ## SECTION B - Exterior inspection
@@ -27,7 +27,7 @@
 
 ## SECTION C - Interior inspection
 - [ ] 1.  Check for any error messages on the display screen.
-- [ ] 2.  Touch the "Tesla T" at the top of the screen to bring up the "About Your Tesla" window. Tap the unicorn drawing to access the Sketch Pad. Leave the Sketch Pad up for a minute to make sure there are no phantom touches happening on the display.
+- [ ] 2.  Tap the "Toybox" icon at the bottom right of the screen and launch the Sketchpad app. Leave the Sketchpad up for a minute to make sure there are no phantom touches happening on the display.
 - [ ] 3.  Gently test the driver and passenger door emergency release.
 - [ ] 4.  Check all 4 windows to ensure they open and close properly.
 - [ ] 5.  Inspect interior seat upholstery, door surfaces, dash, headliner & carpets (including passenger compartment, frunk, and trunk).
