@@ -18,7 +18,7 @@
 - [ ] 9.  Test all doors to ensure they open and close without unreasonable effort or sound. Check paint in areas such as door hinges, that are not visible when doors are closed. *NOTE: Some deliveries have reported incomplete body painting in hidden areas.*
 - [ ] 10.  Test opening and closing of the frunk. Check paint in areas that are not visible when frunk and trunk are closed.  *NOTE: Some deliveries have reported incomplete body painting in hidden areas.*
 - [ ] 11.  Test opening and closing of the trunk using the auto-close button. The door should latch and seal automatically.
-- [ ] 12.  Check for the towing eye under the frunk mat.
+- [ ] 12.  Check for the "tow eye" in the frunk.
 - [ ] 13.  Check for the tow harness (if tow hitch was ordered).
 - [ ] 14.  Ensure door windows auto-close completely when doors are closed.
 - [ ] 15.  Check for front license plate bracket (if applicable in your state).
