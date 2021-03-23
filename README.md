@@ -83,7 +83,6 @@ If you haven't had any contact with a Delivery Advisor/Scheduler since "First Co
 4.  Bring written or digital proof of your down payment having been made and the final payment details or financing details.  If you are financing, make sure your loan has been funded before you arrive to take delivery and that you have some kind of proof you can provide to Tesla should they ask about it.
 5.  Bring a printed insurance card or other proof of insurance that shows your Model 3 is insured.
 6.  Since the delivery area where you will inspect your Model 3 may be dark, bring a flashlight.
-7.  Bring a USB drive (32gb minimum recommended) to set up [Sentry mode and the dash cam](https://www.tesla.com/support/software-v9#dashcam).
 
 ### Arrival at the Delivery Center:
 After checking in with a Tesla employee, you'll likely be waiting around for a while. It's rare for a Tesla delivery center to _not_ be busy. Expect to wait for 2 hours or more before you're taken to see your vehicle.
@@ -122,14 +121,15 @@ After checking in with a Tesla employee, you'll likely be waiting around for a w
 
 ## After your first drive
 1.  **Keep driving!**
-2.  Download [Plugshare](http://plugshare.com/) to find third-party charging stations.
-3.  Go to try a supercharger (also a good destination for your first drive)
-4.  Consider having the paint protected with ceramic paint protection, which will help prevent scratches, stone chips, etc.
-5.  Consider alloy wheel insurance or protection.
-6.  [Learn how to properly wash your vehicle](https://www.youtube.com/watch?v=uWmtLSQYbys).
-7.  Be aware that the Model 3 and Model Y do not come with a spare tire.
-8.  When your registration arrives, check that it's the correct model listed (AWD/SR+/etc.), as it could affect selling your vehicle in the future, insurance coverage, etc.
-9. Respond to the surveys that Tesla periodically sends. This is the best way that you can directly impact improvements to the vehicle and company.
+2.  Set up [Sentry mode and the dash cam](https://www.tesla.com/support/software-v9#dashcam).
+3.  Download [Plugshare](http://plugshare.com/) to find third-party charging stations.
+4.  Go to try a supercharger (also a good destination for your first drive).
+5.  Consider having the paint protected with ceramic paint protection, which will help prevent scratches, stone chips, etc.
+6.  Consider alloy wheel insurance or protection.
+7.  [Learn how to properly wash your vehicle](https://www.youtube.com/watch?v=uWmtLSQYbys).
+8.  Be aware that the Model 3 and Model Y do not come with a spare tire.
+9.  When your registration arrives, check that it's the correct model listed (AWD/SR+/etc.), as it could affect selling your vehicle in the future, insurance coverage, etc.
+10. Respond to the surveys that Tesla periodically sends. This is the best way that you can directly impact improvements to the vehicle and company.
 
 
 # Appendix
@@ -137,7 +137,6 @@ After checking in with a Tesla employee, you'll likely be waiting around for a w
 After a year and a half of Tesla ownership, here are the accessories I have found to be real upgrades that I haven't taken for granted:
 1. All-weather floor mats [OEM (my recommendation)](https://shop.tesla.com/product/model-3-all-weather-floor-liners), [aftermarket](https://www.amazon.com/3D-MAXpider-B07D9GMYG8?tag=mykelteslapre-20). I keep these in my vehicle year-round. It has helped preserve the "new car smell," and is easy to keep clean.
 2. Wireless charging pad [OEM](https://shop.tesla.com/product/model-3-wireless-phone-charger), [aftermarket](https://www.amazon.com/TapTes-Horizontally-Vertically-Smartphone-Compatible/dp/B07X2RJ2V4?tag=mykelteslapre-20). I have the aftermarket one installed in mine. No issues. Note that Tesla has revised their Model 3 center console to include a built-in wireless charger, so no mat is needed at all. The Model Y doesn't yet have this refresh, but it's expected to come soon.
-3. A fast-write [USB stick](https://www.amazon.com/dp/B01CIEBS74?tag=mykelteslapre-20) for Sentry and dashcam footage. I recommend one with a built-in lightning port to easily review footage on your iPhone.
-4. A [vinyl wrap](https://www.abstractocean.com/model-3-center-console-vinyl-wrap/) for the center console. The factory console is piano black, which is impossible not to scratch. Vinyl wraps are easy to install and (arguably) look better than stock. Note that Tesla has revised their Model 3 center console which may make wraps less necessary.
+3. A [vinyl wrap](https://www.abstractocean.com/model-3-center-console-vinyl-wrap/) for the center console. The factory console is piano black, which is impossible not to scratch. Vinyl wraps are easy to install and (arguably) look better than stock. Note that Tesla has revised their Model 3 center console which may make wraps less necessary.
 
 [*Back to Top*](#tesla-prep)
