@@ -1,14 +1,17 @@
 *Feel free to print this out and bring it, along with a pen. Don't feel like you need to rush through the inspection. The delivery team at Tesla will certainly seem like they want to move quickly, but you don't need to leave the lot until you're 100% satisfied. Take your time."
 
-## SECTION A - Verify pre-delivery vehicle records
+## SECTION A - Delivery pre-requisites
+If any of the pre-requisites are not met, you should reject delivery.
+### Vehicle records
 - [ ] 1.  Check for the correct full name and address on your paperwork.
 - [ ] 2.  Confirm the vehicle's VIN matches your paperwork.
 - [ ] 3.  Check the vehicle's "About" screen for any information that does not match the vehicle (found by tapping the car icon in the bottom-right, then tapping Software).
 - [ ] 4.  Verify that the vehicle's Monroney record matches your configuration.
+### Vehicle characteristics
+- [ ] 1. Verify that the vehicle's body color, interior color, and wheels match what you configured.
+- [ ] 2. Inspect body exterior paint for defects.
 
 ## SECTION B - Exterior inspection
-- [ ] 1.  Verify that the vehicle's body color, interior, and wheels match what you configured.
-- [ ] 2.  Inspect body exterior paint for defects. *NOTE: This should really be the only item which should cause you to reject a delivery; most other issues can be easily addressed in a separate service visit.*
 - [ ] 3.  Inspect vehicle underside (front and rear) for signs of scraping, or damage.
 - [ ] 4.  Check for any obvious body panel misalignment, or gaps. Especially the charge port, taillight and headlight housings.
 - [ ] 5.  Inspect wheel rims for damage.
