@@ -19,6 +19,7 @@
 - [ ] 8.  Inspect all edges of the roof glass panel and rear window.
 - [ ] 9.  Test all doors to ensure they open and close without unreasonable effort or sound. Check paint in areas such as door hinges, that are not visible when doors are closed. *NOTE: Some deliveries have reported incomplete body painting in hidden areas.*
 - [ ] 10.  Test power liftgate operation on trunk.
+- [ ] 11.  Verify that the water guards that line the trunk (below the rear windshield) are free and clear.
 - [ ] 11.  Test opening and closing of trunk and frunk. Check paint in areas that are not visible when frunk and trunk are closed.  *NOTE: Some deliveries have reported incomplete body painting in hidden areas.*
 - [ ] 12.  Check for the towing eye under the frunk mat.
 - [ ] 13.  Ensure door windows auto-close completely when doors are closed.
