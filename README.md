@@ -61,7 +61,7 @@ Check your Tesla account for an assigned Vehicle Identification Number (VIN) and
 
 If you have a VIN assigned, call your insurance to schedule the coverage date for your delivery day.
 
-Some states require a vehicle insepction be completed at a state certified inspection facility, after you take ownership of the car. Rules vary by state,but if you have previously owned cars in the state you live in, the process should be the same as you have always known. If you recently moved to a new state, this is something you want to make sure you look in to.
+Some states require a vehicle inspection be completed at a state certified inspection facility, after you take ownership of the car. Rules vary by state, but if you have previously owned cars in the state you live in, the process should be the same as you have always known. If you recently moved to a new state, this is something you want to make sure you look into.
 
 
 ## Anytime before delivery day
@@ -101,7 +101,7 @@ After checking in with a Tesla employee, you'll likely be waiting around for a w
 
 2.  Make sure you have copies of all paperwork necessary for good documentation of your purchase, including a copy of your signed purchase agreement (MVPA). If your delivery specialist suggests that you can get your documents electronically on your Tesla account, ask for paper copies you can take with you anyway. Having physical copies with you ensures you will get them.
 
-*Note: Pointing these out before you leave is important but if you only notice something days later, don't worry. Tesla is has a reputation of rectifying these issues either immediately or on your next visit to the service center. If you have a vehicle you're not happy taking away that day, you have every right to decline the handover until the problems are fixed.*
+*Note: Pointing these out before you leave is important but if you only notice something days later, don't worry. Tesla has a reputation of rectifying these issues either immediately or on your next visit to the service center. If you have a vehicle you're not happy taking away that day, you have every right to decline the handover until the problems are fixed.*
 
 ### Before driving away, ask a Tesla rep:
 1.  [How to charge](https://www.youtube.com/watch?v=5bDGjIxmyNo) / [work a supercharger](https://www.youtube.com/watch?v=srLjNqo7r20) / open the charge flap.
