@@ -20,12 +20,12 @@
 - [ ] 9.  Test all doors to ensure they open and close without unreasonable effort or sound. Check paint in areas such as door hinges, that are not visible when doors are closed. *NOTE: Some deliveries have reported incomplete body painting in hidden areas.*
 - [ ] 10.  Test power liftgate operation on trunk.
 - [ ] 11.  Verify that the water guards that line the trunk (below the rear windshield) are free and clear.
-- [ ] 11.  Test opening and closing of trunk and frunk. Check paint in areas that are not visible when frunk and trunk are closed.  *NOTE: Some deliveries have reported incomplete body painting in hidden areas.*
-- [ ] 12.  Check for the towing eye under the frunk mat.
-- [ ] 13.  Ensure door windows auto-close completely when doors are closed.
-- [ ] 14.  Check for front license plate bracket (if applicable in your state).
-- [ ] 15.  Check all front and rear exterior lights for signs of internal condensation.
-- [ ] 16.  With all doors open, inspect the weather seals around door gaps and windows. *NOTE: Some deliveries have reported seals being "overlapped" incorrectly. This is easily fixed by hand in a few seconds, but worth noting.*
+- [ ] 12.  Test opening and closing of trunk and frunk. Check paint in areas that are not visible when frunk and trunk are closed.  *NOTE: Some deliveries have reported incomplete body painting in hidden areas.*
+- [ ] 13.  Check for the towing eye under the frunk mat.
+- [ ] 14.  Ensure door windows auto-close completely when doors are closed.
+- [ ] 15.  Check for front license plate bracket (if applicable in your state).
+- [ ] 16.  Check all front and rear exterior lights for signs of internal condensation.
+- [ ] 17.  With all doors open, inspect the weather seals around door gaps and windows. *NOTE: Some deliveries have reported seals being "overlapped" incorrectly. This is easily fixed by hand in a few seconds, but worth noting.*
 
 ## SECTION C - Interior inspection
 - [ ] 1.  Check for any error messages on the display screen.
