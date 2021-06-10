@@ -5,7 +5,7 @@
 ## SECTION A - Verify pre-delivery vehicle records
 - [ ] 1.  Check for the correct full name and address on your paperwork.
 - [ ] 2.  Confirm the vehicle's VIN matches your paperwork.
-- [ ] 3.  Check the vehicle's "About" screen for any information that does not match the vehicle (found by tapping the car icon in the bottom-right, then tapping Software).
+- [ ] 3.  Check the vehicle's "About" screen for any information that does not match the vehicle (found by tapping the car icon in the bottom-left, then tapping Software).
 - [ ] 4.  Verify that the vehicle's Monroney record matches your configuration.
 
 ## SECTION B - Exterior inspection
