@@ -114,20 +114,20 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 1.  [ ] Rear brake lights. Ensure there is no condensation inside the light's housing
 
 
-## SECTION E - Optional equipment
-1.  [ ] Check for front license plate bracket (if applicable in your region)
-1.  [ ] Check for the towing eye under the frunk mat
-1.  [ ] Maryland state deliveries should include Tesla's official inflation kit (usually stowed in trunk)
-1.  [ ] Verify that any additional floor mats are included (if ordered)
-
-
-## SECTION F - Charging ability
+## SECTION E - Charging ability
 1.  [ ] Check the charge port door for proper operation
 1.  [ ] Check charge port indicator light
 1.  [ ] Ensure the vehicle will accept a charge
 1.  [ ] Check the mobile charging kit (J1772, NEMA 5-15, mobile connector with cable)
 
 
-## SECTION G - Inspect pairing connectivity
+## SECTION F - Inspect pairing connectivity
 1.  [ ] Test both key cards to ensure they work with your vehicle. Keep one key card on your person in case the phone app does not operate properly
 1.  [ ] Pair your smartphone to your vehicle over Bluetooth
+
+
+## SECTION G - Optional equipment
+1.  [ ] Check for front license plate bracket (if applicable in your region)
+1.  [ ] Check for the towing eye under the frunk mat
+1.  [ ] Maryland state deliveries should include Tesla's official inflation kit (usually stowed in trunk)
+1.  [ ] Verify that any additional floor mats are included (if ordered)
