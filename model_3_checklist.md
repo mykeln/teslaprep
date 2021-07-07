@@ -29,7 +29,7 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 
 > Looking for scrapes, damage, overspray, underspray, dents and dings. Include all trim and door handles as part of this review
 
-*WITH ALL DOORS CLOSED*
+**WITH ALL DOORS CLOSED**
 1.  [ ] Inspect vehicle underside plastic trim (front and rear) for signs of scraping, or damage
 1.  [ ] Front bumper
 1.  [ ] Right front quarter panel
@@ -48,7 +48,7 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 1.  [ ] Left front quarter panel
 1.  [ ] Frunk
 
-*OPEN ALL DOORS, INCLUDING FRUNK, TRUNK*
+**OPEN ALL DOORS, INCLUDING FRUNK, TRUNK**
 1.  [ ] Test power liftgate operation on trunk
 1.  [ ] Test all doors (including frunk and trunk) to ensure they open and close without unreasonable effort or sound
 1.  [ ] Ensure door windows auto-close completely when doors are closed
@@ -67,7 +67,7 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 
 1.  [ ] Inspect interior seat upholstery, door surfaces, dash, headliner and carpets (including passenger compartment, frunk, and trunk)
 
-*SIT IN DRIVER'S SEAT*
+**SIT IN DRIVER'S SEAT**
 1.  [ ] Check for any error messages on the display screen
 1.  [ ] Check all four windows to ensure they roll up and down properly
 1.  [ ] Test the windshield wipers
@@ -89,7 +89,7 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 1.  [ ] Test the sound system to ensure all speakers are working (move fade/balance to all four points to verify)
 1.  [ ] Tap the "Toybox" icon at the bottom right of the screen and launch the Sketchpad app. Leave the Sketchpad up for a minute to make sure there are no phantom touches happening on the display, or dead pixels
 
-*GET OUT OF THE DRIVER'S SEAT*
+**GET OUT OF THE DRIVER'S SEAT**
 1.  [ ] Gently test the driver and passenger door emergency releases
 1.  [ ] Check driver and passenger door puddle lights
 1.  [ ] Check all door latch button lights
@@ -106,7 +106,7 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 1.  [ ] Front park lights
 1.  [ ] Front fog lights
 
-*TURN ON HAZARD LIGHTS*
+**TURN ON HAZARD LIGHTS**
 1.  [ ] Front turn signal lights
 1.  [ ] Left and right turn signal lights
 1.  [ ] Rear turn signal lights
