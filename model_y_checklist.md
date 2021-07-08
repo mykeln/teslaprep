@@ -1,4 +1,6 @@
-# Model 3 Checklist #
+# Model Y Checklist #
+
+This is available as a [mobile app for iOS and Android](https://teslaprep.glideapp.io), too.
 
 This pre-drive checklist is designed to be done in a specific flow to save time and make sure nothing is missed. You will essentially do several "laps" around the car. Start at the beginning and work your way down the list. By the end, your car will be fully reviewed. Feel free to print this out and bring it, along with a pen. Don't feel like you need to rush through the inspection. The delivery team at Tesla will certainly seem like they want to move quickly, but you don't need to leave the lot until you're 100% satisfied. Take your time
 
