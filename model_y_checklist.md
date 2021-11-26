@@ -24,6 +24,7 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 1. [ ] Check the vehicle's "About" screen for any information that does not match the vehicle (found by tapping the car icon in the bottom-left, then tapping Software)
 1. [ ] Verify that the vehicle's Monroney record matches your configuration
 1. [ ] Verify that the vehicle's body color, interior, and wheels match what you configured
+1. [ ] For Texas, ensure you have the original Texas Vehicle Inspection Report
 
 
 ## SECTION B - Exterior inspection ##
