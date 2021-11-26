@@ -7,15 +7,15 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 ---
 
 ## Things to Bring with You ##
-1. [ ] Driver's license
 1. [ ] If your vehicle will be registered to more than one person, each person on the registration needs to be at the delivery appointment to sign final documents.
+1. [ ] Driver's license
+1. [ ] Your smartphone with the Tesla app installed and signed in
 1. [ ] Written or digital proof of your down payment having been made and the final payment details; If you are financing, make sure your loan has been funded before you arrive to take delivery and that you have some kind of proof you can provide to Tesla should they ask about it.
 1. [ ] Proof of insurance
 1. [ ] Your trade-in car
 1. [ ] USB-A, USB-C, and 12VDC cables for testing
-1. [ ] Your smartphone with the Tesla app installed and signed in
-1. [ ] Any accessories you want to install immediately
 1. [ ] Flashlight (since the delivery area where you will inspect your vehicle may be dark)
+1. [ ] Any accessories you want to install immediately
 
 
 ## SECTION A - Verify pre-delivery vehicle records ##
