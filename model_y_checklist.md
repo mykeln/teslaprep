@@ -7,11 +7,12 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 ---
 
 ## Things to Bring with You ##
+1. [ ] Driver's license
 1. [ ] Written or digital proof of your down payment having been made and the final payment details
 1. [ ] Proof of insurance
 1. [ ] Your trade-in car
 1. [ ] USB-A, USB-C, and 12VDC cables for testing
-1. [ ] Your phone
+1. [ ] Your phone with the Tesla app installed and signed in
 1. [ ] Any accessories you want to install immediately
 
 
