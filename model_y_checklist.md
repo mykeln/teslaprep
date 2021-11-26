@@ -6,6 +6,15 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 
 ---
 
+## Things to Bring with You ##
+1. [ ] Written or digital proof of your down payment having been made and the final payment details
+1. [ ] Proof of insurance
+1. [ ] Your trade-in car
+1. [ ] USB-A, USB-C, and 12VDC cables for testing
+1. [ ] Your phone
+1. [ ] Any accessories you want to install immediately
+
+
 ## SECTION A - Verify pre-delivery vehicle records ##
 
 > Make sure the car you ordered is the car you're getting!
@@ -15,6 +24,7 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 1. [ ] Check the vehicle's "About" screen for any information that does not match the vehicle (found by tapping the car icon in the bottom-left, then tapping Software)
 1. [ ] Verify that the vehicle's Monroney record matches your configuration
 1. [ ] Verify that the vehicle's body color, interior, and wheels match what you configured
+
 
 ## SECTION B - Exterior inspection ##
 
@@ -26,6 +36,7 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 1. [ ] Trunk arms properly align with where they meet the left and right quarter panels
 1. [ ] Headlights and rear lights are flush with the body
 1. [ ] Charging port is flush with the body
+1. [ ] Check for narrow, large, or uneven gaps between doors, headlights, and roof
 
 ### Paint condition walkaround ###
 
@@ -54,11 +65,11 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 1. [ ] Test power liftgate operation on trunk
 1. [ ] Test all doors (including frunk and trunk) to ensure they open and close without unreasonable effort or sound
 1. [ ] Ensure door windows auto-close completely when doors are closed
-1. [ ] Check the frunk/trunk lighting
+1. [ ] Check the frunk/trunk lighting (there are 2 trunk lights)
 1. [ ] Check paint in areas such as door hinges, the bottom of the frunk/trunk, etc. that are not visible when doors are closed
 
 ### Glass and seal condition
-1. [ ] Inspect all glass (including side mirrors) for signs of distortion, scratches, or cracks
+1. [ ] Inspect all glass (including side mirrors) for signs of distortion, ripples, scratches, or cracks
 1. [ ] Inspect the weather seals around door gaps and windows
 1. [ ] Verify that the water guards that line the trunk (below the rear windshield) are free and clear
 1. [ ] Check for proper windshield and windshield trim installation
@@ -71,7 +82,7 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 
 **SIT IN DRIVER'S SEAT**
 1. [ ] Check for any error messages on the display screen
-1. [ ] Check all four windows to ensure they roll up and down properly
+1. [ ] Check all four windows to ensure they roll up and down properly including auto-up/down function
 1. [ ] Test the windshield wipers
 1. [ ] Test the rearview camera
 1. [ ] Check side mirrors for proper operation of folding and position adjustment
@@ -83,9 +94,13 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 1. [ ] Check center console cover slide operation and middle/rear compartment lights
 1. [ ] Check glovebox opening and closing functions (and lighting)
 1. [ ] Check seat all position controls
+1. [ ] Check that both front sets don't squeak when moving (check all directions of motion)
 1. [ ] Check driver and passenger footwell lighting
 1. [ ] Check steering wheel control lights (they may need to be enabled in Driver settings)
 1. [ ] Test connectivity of wireless phone charger
+1. [ ] Test connectivity in both USB-C ports in center console
+1. [ ] Test 12 volt DC receptable in center console has power
+1. [ ] Test the HVAC and listen for strange noises on both hot and cold settings
 
 ### Infotainment inspection
 1. [ ] Test the sound system to ensure all speakers are working (move fade/balance to all four points to verify)
@@ -94,11 +109,13 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 **GET OUT OF THE DRIVER'S SEAT**
 1. [ ] Gently test the driver and passenger door emergency releases
 1. [ ] Check driver and passenger door puddle lights
+1. [ ] Check rear left and right door pocket lighting
 1. [ ] Check all door latch button lights
 1. [ ] Check all door window button lights
-1. [ ] Check front, rear and middle seatbelts for proper operation
+1. [ ] Check front, rear, and middle seatbelts for proper operation
 1. [ ] Check rear left and right clothing hook operation in the rear passenger area
 1. [ ] Check the rear seats for proper fold-down operation
+1. [ ] Try to lift the bottom of the back seats to ensure it is securely attached to their base
 1. [ ] Check rear left and right overhead lights
 1. [ ] Test connectivity in all USB ports (1 USB-A/1 USB-C in the front, 2 USB-C in the rear)
 
@@ -117,15 +134,16 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 
 
 ## SECTION E - Charging ability
-1. [ ] Check the charge port door for proper operation
+1. [ ] Check the charge port door for proper operation and alignment (manual tap, through screen/app, and button on charger)
 1. [ ] Check charge port indicator light
 1. [ ] Ensure the vehicle will accept a charge
+1. [ ] Ensure the vehicle will accept a charge at the Supercharger at the delivery center
 1. [ ] Check the mobile charging kit (J1772, NEMA 5-15, mobile connector with cable)
 
 
 ## SECTION F - Inspect pairing connectivity
 1. [ ] Test both key cards to ensure they work with your vehicle. Keep one key card on your person in case the phone app does not operate properly
-1. [ ] Pair your smartphone to your vehicle over Bluetooth
+1. [ ] Pair your smartphone to your vehicle over Bluetooth and test features like music streaming, unlock, etc.
 
 
 ## SECTION G - Optional equipment
@@ -134,3 +152,9 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 1. [ ] Maryland state deliveries should include Tesla's official inflation kit (usually stowed in trunk)
 1. [ ] Verify that any additional floor mats are included (if ordered)
 1. [ ] Check for tow hitch equipment (if ordered)
+
+
+## SECTION H - Paperwork / Final Items
+1. [ ] Ask your delivery specialist to make sure that your car is marked as DELIVERED in Tesla’s network. There have been reports of cars being delivered and the phone app doesn’t allow log in the following day.
+1. [ ] Verify that your car is marked as delivered on your phone app and that all features are working on the phone app
+1. [ ] Make sure you have copies of all paperwork necessary for good documentation of your purchase, including a copy of your signed purchase agreement. If your delivery specialist suggests that you can get your documents electronically on your Tesla account, ask for paper copies you can take with you anyway.
