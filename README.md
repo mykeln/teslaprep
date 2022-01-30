@@ -138,7 +138,6 @@ Tesla's delivery folks typically give you just 10 to 15 minutes to inspect the v
 ## Must-Have Accessories
 After a year and a half of Tesla ownership, here are the accessories I have found to be real upgrades that I haven't taken for granted:
 1. All-weather floor mats [OEM (my recommendation)](https://shop.tesla.com/product/model-3-all-weather-floor-liners), [aftermarket](https://www.amazon.com/3D-MAXpider-B07D9GMYG8?tag=mykelteslapre-20). I keep these in my vehicle year-round. It has helped preserve the "new car smell," and is easy to keep clean.
-2. Wireless charging pad [OEM](https://shop.tesla.com/product/model-3-wireless-phone-charger), [aftermarket](https://www.amazon.com/TapTes-Horizontally-Vertically-Smartphone-Compatible/dp/B07X2RJ2V4?tag=mykelteslapre-20). I have the aftermarket one installed in mine. No issues. Note that Tesla has revised their Model 3 center console to include a built-in wireless charger, so no mat is needed at all. The Model Y doesn't yet have this refresh, but it's expected to come soon.
-3. A [vinyl wrap](https://www.abstractocean.com/model-3-center-console-vinyl-wrap/) for the center console. The factory console is piano black, which is impossible not to scratch. Vinyl wraps are easy to install and (arguably) look better than stock. Note that Tesla has revised their Model 3 center console which may make wraps less necessary.
+2. A [vinyl wrap](https://www.abstractocean.com/model-3-center-console-vinyl-wrap/) for the center console. Vinyl wraps are easy to install and (arguably) look better than stock.
 
 [*Back to Top*](#tesla-prep)
