@@ -5,8 +5,6 @@ Just looking for a delivery checklist?
 -  Check the [mobile app for iOS and Android](https://teslaprep.glideapp.io).
 -  Or jump to the text files: [Model 3](model_3_checklist.md) / [Model Y](model_y_checklist.md).
 
-If you find this guide helpful, I would really appreciate it if you [use my referral link](https://www.tesla.com/referral/mykel48491) (mykel48491) when ordering your Tesla. Using a referral code will grant you 1,000 free Supercharging miles. (Thanks Brent, Tim, Alan, Enedy, David, Ningzhi, Sebastian, Jose Alfonso, Marc, Puspa, Jordan, Stefani, Cory, Iyya, Brandon, Russell, Jeremy, Jesse, Jing, Sam, Marcelo, Lawrence, Brandon, Jan, Freddie, Aoun, James, Bryan, Kira, Sandeep, Richard, Linden, Peixuan, Edgar, Henry, John, Matt, Samuel, Anh and Brian!)
-
 |Navigation|
 |-----------------|
 |[Configuration complete](#configuration-complete)|
