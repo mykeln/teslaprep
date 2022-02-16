@@ -70,7 +70,7 @@ Some states require a vehicle inspection be completed at a state certified inspe
 3.  Attend a [Tesla owner orientation event](https://www.tesla.com/events). You will meet other owners and learn lots of handy tips about general ownership, driving and living with the car.
 4.  Download [Model 3](https://www.tesla.com/sites/default/files/model_3_owners_manual_north_america_en.pdf) or [Model Y](https://www.tesla.com/sites/default/files/model_y_owners_manual_north_america_en.pdf) owners manuals. It will come in handy on your phone/computer for when you need it.
 5.  Grab a [good tire inflator](https://www.amazon.com/dp/B01N224N1U?tag=mykelteslapre-20).
-6.  Join the [official Tesla forum](https://forums.tesla.com/), the unofficial [Tesla Motors Club forum](https://teslamotorsclub.com/), and [r/teslamotors](http://reddit.com/r/teslamotors) subreddit.
+6.  Join the unofficial [Tesla Motors Club forum](https://teslamotorsclub.com/), and [r/teslamotors](http://reddit.com/r/teslamotors) subreddit.
 
 
 ## Delivery day
@@ -137,7 +137,7 @@ Tesla's delivery folks typically give you just 10 to 15 minutes to inspect the v
 # Appendix
 ## Must-Have Accessories
 After a year and a half of Tesla ownership, here are the accessories I have found to be real upgrades that I haven't taken for granted:
-1. All-weather floor mats [OEM (my recommendation)](https://shop.tesla.com/product/model-3-all-weather-floor-liners), [aftermarket](https://www.amazon.com/3D-MAXpider-B07D9GMYG8?tag=mykelteslapre-20). I keep these in my vehicle year-round. It has helped preserve the "new car smell," and is easy to keep clean.
+1. All-weather floor mats [OEM (my recommendation)](https://shop.tesla.com/product/model-3-all-weather-floor-liners). I keep these in my vehicle year-round. It has helped preserve the "new car smell," and is easy to keep clean.
 2. A [vinyl wrap](https://www.abstractocean.com/model-3-center-console-vinyl-wrap/) for the center console. Vinyl wraps are easy to install and (arguably) look better than stock.
 
 [*Back to Top*](#tesla-prep)
