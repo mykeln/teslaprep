@@ -98,7 +98,7 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 1. [ ] Check center console cover slide operation and middle/rear compartment lights
 1. [ ] Check glovebox opening and closing functions (and lighting)
 1. [ ] Check seat all position controls
-1. [ ] Check that both front sets don't squeak when moving (check all directions of motion)
+1. [ ] Check that both front seats don't squeak when moving (check all directions of motion)
 1. [ ] Check driver and passenger footwell lighting
 1. [ ] Check steering wheel control lights (they may need to be enabled in Driver settings)
 1. [ ] Test connectivity of wireless phone charger
