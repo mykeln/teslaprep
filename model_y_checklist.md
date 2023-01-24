@@ -27,6 +27,7 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 1. [ ] Check the vehicle's "About" screen for any information that does not match the vehicle (found by tapping the car icon in the bottom-left, then tapping Software)
 1. [ ] Verify that the vehicle's Monroney record matches your configuration
 1. [ ] Verify that the vehicle's body color, interior, and wheels match what you configured
+1. [ ] Confirm all 4 Gemini hubcaps are present and properly attached (if applicable)
 1. [ ] For Texas, ensure you have the original Texas Vehicle Inspection Report
 
 
@@ -47,7 +48,7 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 > Looking for scrapes, damage, overspray, underspray, dents and dings. Include all trim and door handles as part of this review
 
 **WITH ALL DOORS CLOSED**
-1. [ ] Inspect vehicle underside plastic trim (front and rear) for signs of scraping, or damage
+1. [ ] Inspect vehicle underside plastic trim (front and rear) for signs of scraping, or damage or loose screws/plugs
 1. [ ] Front bumper
 1. [ ] Right front quarter panel
 1. [ ] Right front wheel
@@ -67,6 +68,7 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 
 **OPEN ALL DOORS, INCLUDING FRUNK, TRUNK**
 1. [ ] Test power liftgate operation on trunk
+1. [ ] Test Power liftgate height adjustment
 1. [ ] Test all doors (including frunk and trunk) to ensure they open and close without unreasonable effort or sound
 1. [ ] Ensure door windows auto-close completely when doors are closed
 1. [ ] Check the frunk/trunk lighting (there are 2 trunk lights)
@@ -82,11 +84,11 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 
 ## SECTION C - Interior inspection
 
-1. [ ] Inspect interior seat upholstery, door surfaces, dash, headliner and carpets (including passenger compartment, frunk, and trunk)
+> Inspect interior seat upholstery, door surfaces, dash, headliner and carpets (including passenger compartment, frunk, and trunk)
 
 **SIT IN DRIVER'S SEAT**
 1. [ ] Check for any error messages on the display screen
-1. [ ] Check all four windows to ensure they roll up and down properly including auto-up/down function
+1. [ ] Check all four windows to ensure they roll up and down all the way properly including auto-up/down function
 1. [ ] Test the windshield wipers
 1. [ ] Test the rearview camera
 1. [ ] Check side mirrors for proper operation of folding and position adjustment
@@ -99,12 +101,15 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 1. [ ] Check glovebox opening and closing functions (and lighting)
 1. [ ] Check seat all position controls
 1. [ ] Check that both front seats don't squeak when moving (check all directions of motion)
+1. [ ] Check heated seats
 1. [ ] Check driver and passenger footwell lighting
 1. [ ] Check steering wheel control lights (they may need to be enabled in Driver settings)
 1. [ ] Test connectivity of wireless phone charger
 1. [ ] Test connectivity in both USB-C ports in center console
 1. [ ] Test 12 volt DC receptable in center console has power
-1. [ ] Test the HVAC and listen for strange noises on both hot and cold settings
+1. [ ] Test the HVAC and listen for strange noises on both hot and cold settings full power
+1. [ ] Test Park Assist sensor by pressing the break, put the car in Drive or Reverse and have someone walk in front of the car
+1. [ ] Test Blind Spot camera by turning on Automatic Blind Spot camera setting, then turn your right/left lane changing signal to see the image from the camera (only version 11)
 
 ### Infotainment inspection
 1. [ ] Test the sound system to ensure all speakers are working (move fade/balance to all four points to verify)
@@ -140,9 +145,8 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 ## SECTION E - Charging ability
 1. [ ] Check the charge port door for proper operation and alignment (manual tap, through screen/app, and button on charger)
 1. [ ] Check charge port indicator light
-1. [ ] Ensure the vehicle will accept a charge
-1. [ ] Ensure the vehicle will accept a charge at the Supercharger at the delivery center
-1. [ ] Check the mobile charging kit (J1772, NEMA 5-15, mobile connector with cable)
+1. [ ] Ensure the vehicle will accept a charge at the Supercharger at the delivery center if avaliable
+1. [ ] Check for J1772 adapter
 
 
 ## SECTION F - Inspect pairing connectivity
@@ -156,6 +160,8 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 1. [ ] Maryland state deliveries should include Tesla's official inflation kit (usually stowed in trunk)
 1. [ ] Verify that any additional floor mats are included (if ordered)
 1. [ ] Check for tow hitch equipment (if ordered)
+1. [ ] Check rear door Paint Protection Film (if ordered)
+1. [ ] Check Mud Flaps (if ordered)
 
 
 ## SECTION H - Paperwork / Final Items
