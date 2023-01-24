@@ -117,10 +117,10 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 
 
 ## SECTION E - Charging ability
-1. [ ] Check the charge port door for proper operation
+1. [ ] Check the charge port door for proper operation and alignment (manual tap, through screen/app, and button on charger)
 1. [ ] Check charge port indicator light
-1. [ ] Ensure the vehicle will accept a charge
-1. [ ] Check the mobile charging kit (J1772, NEMA 5-15, mobile connector with cable)
+1. [ ] Ensure the vehicle will accept a charge at the Supercharger at the delivery center if avaliable
+1. [ ] Check for J1772 adapter
 
 
 ## SECTION F - Inspect pairing connectivity
