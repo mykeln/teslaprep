@@ -96,6 +96,31 @@ Tesla's delivery folks typically give you just 10 to 15 minutes to inspect the v
 - [Model 3 delivery checklist](model_3_checklist.md)
 - [Model Y delivery checklist](model_y_checklist.md)
 
+### Things to pay extra attention to
+After 1,000 new Tesla owners have completed delivery inspections using Tesla Prep, the most common issues are:
+1.  Paint and exterior issues:
+    -   Scratches and chips on various panels, doors, and bumpers
+    -   Panel gaps and alignment issues on doors, trunk, frunk, and lights
+    -   Wheel scratches and aero cap problems
+2.  Interior issues:
+    -   Rattles and noises coming from doors and windows
+    -   Scratches and marks on seats, upholstery, and console
+    -   Misalignments in mirrors and hooks
+3.  Glass and seal issues:
+    -   Windshield cracks, gaps, and misalignments
+    -   Headlight and taillight alignment issues
+    -   Door mirror and hood seal problems
+    -   Glass delamination and residue on roof glass
+4.  Electronic and accessory issues:
+    -   Connectivity issues with Android Bluetooth, key cards, and wireless chargers
+    -   Non-functioning scroll wheel, wipers, and fog lights
+    -   USB port and charging issues
+    -   Loose or missing parts in doors and seats
+5.  Miscellaneous issues:
+    -   Brightness of lights
+    -   Mileage and mats
+    -   Testing of various features and functions, such as charging, folding seats, and fog lights
+
 
 ## Post-inspection:
 ### Verify post-delivery vehicle records
