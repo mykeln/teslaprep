@@ -1,5 +1,6 @@
 # Tesla Prep
 If you find this guide helpful, I'd appreciate you [using my referral link](https://www.tesla.com/referral/mykel48491) when ordering from Tesla!
+
 This is a guide for buying, taking delivery of, and owning a Tesla Model 3 or Model Y.
 
 Just looking for a delivery checklist?
