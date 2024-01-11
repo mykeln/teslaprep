@@ -5,7 +5,10 @@ This is a guide for buying, taking delivery of, and owning a Tesla Model 3 or Mo
 
 Just looking for a delivery checklist?
 -  Check the [mobile app for iOS and Android](https://teslaprep.glideapp.io).
--  Or jump to the text files: [Model 3](model_3_checklist.md) / [Model Y](model_y_checklist.md).
+-  Or jump to the text files:
+    - [Model 3 - 2017-2023](model_3_checklist.md)
+    - [Model 3 - 2024+](model_3_highland_checklist.md)
+    - [Model Y - 2019-2023](model_y_checklist.md)
 
 |Navigation|
 |-----------------|
