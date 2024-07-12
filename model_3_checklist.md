@@ -12,7 +12,7 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 
 > Make sure the car you ordered is the car you're getting!
 
-1. [ ] Check for the correct full name and address on your paperwork
+1. [x] Check for the correct full name and address on your paperwork
 1. [ ] Confirm the vehicle's VIN matches your paperwork
 1. [ ] Check the vehicle's "About" screen for any information that does not match the vehicle (found by tapping the car icon in the bottom-left, then tapping Software)
 1. [ ] Verify that the vehicle's Monroney record matches your configuration
