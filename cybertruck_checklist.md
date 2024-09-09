@@ -1,4 +1,7 @@
 # Cybertruck
+
+This now an app, [CarPrep](https://apps.apple.com/us/app/carprep/id6670447342), on the App Store! 
+
 This is a comprehensive guide on preparing for, taking delivery of, and owning a Tesla Cybertruck.
 
 I couldn't find a good resource for the soup-to-nuts process of buying a Model 3, [so I made one](https://github.com/mykeln/teslaprep/blob/master/README.md). This document is adapted from that, taking the Cybertruck's uniqueness into consideration.
