@@ -1,5 +1,7 @@
 # Model Y Checklist #
 
+This now an app, [CarPrep](https://apps.apple.com/us/app/carprep/id6670447342), on the App Store! 
+
 If you find this guide helpful, I'd appreciate you [using my referral link](https://www.tesla.com/referral/mykel48491) when ordering from Tesla!
 
 This is available as a [mobile app for iOS and Android](https://teslaprep.glideapp.io), too.
