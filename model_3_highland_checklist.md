@@ -128,8 +128,6 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 - [ ] Check the charge port door for proper operation and alignment (manual tap, through screen/app, and button on charger)
 - [ ] Check charge port indicator light
 - [ ] Ensure the vehicle will accept a charge at the Supercharger at the delivery center if avaliable
-
- charge at the Supercharger at the delivery center if available
 - [ ] Check for J1772 adapter
 
 ## SECTION F - Inspect pairing connectivity ##
