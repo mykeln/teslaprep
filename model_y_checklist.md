@@ -71,6 +71,7 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 1. [ ] Frunk
 
 **OPEN ALL DOORS, INCLUDING FRUNK, TRUNK**
+1. [ ] Test that door handles present themselves when you walk towards the car, and also when you press them.
 1. [ ] Test power liftgate operation on trunk
 1. [ ] Test Power liftgate height adjustment
 1. [ ] Test all doors (including frunk and trunk) to ensure they open and close without unreasonable effort or sound
